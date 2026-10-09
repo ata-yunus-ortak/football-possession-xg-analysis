@@ -1,0 +1,25 @@
+# Provider inputs remain local until redistribution permission is documented.
+/futbol_xg/data/
+/futbol_xg/cikti/
+/*_possession_data_full.csv
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+*_log.txt
+.tls_lib/
+downloaded_files/
+*.dll
+*.lock
+.env
+.env.*
+!.env.example
+.coverage
+/dist/
+/demo-results/
+/examples/synthetic/sut_game_state.csv
+/examples/synthetic/match_state_exposure.csv
+/examples/synthetic/takim_durum_ozet.csv
+/examples/synthetic/xg_reconciliation_detail.csv

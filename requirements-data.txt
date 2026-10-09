@@ -1,0 +1,6 @@
+# Optional source collectors only; not required for offline analysis.
+# Provider interfaces may change; collection was not rerun during preparation.
+-r requirements.txt
+soccerdata
+lxml
+html5lib

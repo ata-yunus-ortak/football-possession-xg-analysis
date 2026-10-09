@@ -1,0 +1,1752 @@
+league,season,game_id,score_verified,end_minute,replayed_score,fixture_score,excluded_events,duration_source,same_minute_multi_events
+ENG-Premier League,2526,28778,True,94.0,4-2,4-2,0,estimated,8
+ENG-Premier League,2526,28779,True,97.0,0-0,0-0,0,estimated,2
+ENG-Premier League,2526,28780,True,97.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,28781,True,96.0,3-0,3-0,0,estimated,4
+ENG-Premier League,2526,28782,True,90.0,3-0,3-0,0,estimated,9
+ENG-Premier League,2526,28783,True,93.0,0-4,0-4,0,estimated,8
+ENG-Premier League,2526,28784,True,94.0,0-0,0-0,0,estimated,11
+ENG-Premier League,2526,28785,True,90.0,3-1,3-1,0,estimated,6
+ENG-Premier League,2526,28786,True,96.0,0-1,0-1,0,estimated,9
+ENG-Premier League,2526,28787,True,92.0,1-0,1-0,0,estimated,11
+ENG-Premier League,2526,28788,True,91.0,1-5,1-5,0,estimated,4
+ENG-Premier League,2526,28789,True,93.0,0-2,0-2,0,estimated,4
+ENG-Premier League,2526,28790,True,90.0,1-0,1-0,0,estimated,10
+ENG-Premier League,2526,28791,True,100.0,2-0,2-0,0,estimated,2
+ENG-Premier League,2526,28792,True,96.0,1-0,1-0,0,estimated,2
+ENG-Premier League,2526,28793,True,95.0,5-0,5-0,0,estimated,5
+ENG-Premier League,2526,28794,True,95.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,28795,True,93.0,2-0,2-0,0,estimated,3
+ENG-Premier League,2526,28796,True,93.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,28797,True,100.0,2-3,2-3,0,estimated,4
+ENG-Premier League,2526,28798,True,98.0,2-0,2-0,0,estimated,8
+ENG-Premier League,2526,28799,True,98.0,0-1,0-1,0,estimated,7
+ENG-Premier League,2526,28800,True,94.0,2-3,2-3,0,estimated,10
+ENG-Premier League,2526,28801,True,96.0,2-1,2-1,0,estimated,5
+ENG-Premier League,2526,28802,True,97.0,3-2,3-2,0,estimated,15
+ENG-Premier League,2526,28803,True,92.0,0-0,0-0,0,estimated,2
+ENG-Premier League,2526,28804,True,100.0,0-3,0-3,0,estimated,4
+ENG-Premier League,2526,28805,True,98.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,28806,True,97.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28807,True,93.0,0-3,0-3,0,estimated,6
+ENG-Premier League,2526,28808,True,95.0,3-0,3-0,0,estimated,6
+ENG-Premier League,2526,28809,True,97.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28810,True,90.0,2-1,2-1,0,estimated,6
+ENG-Premier League,2526,28811,True,95.0,0-0,0-0,0,estimated,4
+ENG-Premier League,2526,28812,True,94.0,0-0,0-0,0,estimated,10
+ENG-Premier League,2526,28813,True,94.0,1-0,1-0,0,estimated,4
+ENG-Premier League,2526,28814,True,95.0,0-3,0-3,0,estimated,0
+ENG-Premier League,2526,28815,True,96.0,2-2,2-2,0,estimated,4
+ENG-Premier League,2526,28816,True,95.0,0-1,0-1,0,estimated,6
+ENG-Premier League,2526,28817,True,94.0,3-0,3-0,0,estimated,8
+ENG-Premier League,2526,28818,True,90.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,28819,True,93.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,28820,True,92.0,1-3,1-3,0,estimated,2
+ENG-Premier League,2526,28821,True,94.0,2-2,2-2,0,estimated,4
+ENG-Premier League,2526,28822,True,96.0,1-1,1-1,0,estimated,11
+ENG-Premier League,2526,28823,True,93.0,0-0,0-0,0,estimated,4
+ENG-Premier League,2526,28824,True,94.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,28825,True,90.0,3-1,3-1,0,estimated,6
+ENG-Premier League,2526,28826,True,93.0,1-1,1-1,0,estimated,9
+ENG-Premier League,2526,28827,True,93.0,1-1,1-1,0,estimated,0
+ENG-Premier League,2526,28828,True,98.0,3-1,3-1,0,estimated,5
+ENG-Premier League,2526,28829,True,103.0,1-3,1-3,0,estimated,4
+ENG-Premier League,2526,28830,True,97.0,2-1,2-1,0,estimated,16
+ENG-Premier League,2526,28831,True,91.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,28832,True,97.0,2-2,2-2,0,estimated,14
+ENG-Premier League,2526,28833,True,93.0,5-1,5-1,0,estimated,13
+ENG-Premier League,2526,28834,True,94.0,0-1,0-1,0,estimated,13
+ENG-Premier League,2526,28835,True,94.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,28836,True,99.0,1-2,1-2,0,estimated,2
+ENG-Premier League,2526,28837,True,90.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,28838,True,96.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,28839,True,96.0,2-0,2-0,0,estimated,14
+ENG-Premier League,2526,28840,True,93.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28841,True,92.0,0-1,0-1,0,estimated,0
+ENG-Premier League,2526,28842,True,96.0,2-1,2-1,0,estimated,6
+ENG-Premier League,2526,28843,True,102.0,2-1,2-1,0,estimated,9
+ENG-Premier League,2526,28844,True,94.0,1-2,1-2,0,estimated,8
+ENG-Premier League,2526,28845,True,90.0,2-0,2-0,0,estimated,2
+ENG-Premier League,2526,28846,True,97.0,2-0,2-0,0,estimated,7
+ENG-Premier League,2526,28847,True,90.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,28848,True,96.0,2-1,2-1,0,estimated,10
+ENG-Premier League,2526,28849,True,97.0,2-0,2-0,0,estimated,8
+ENG-Premier League,2526,28850,True,99.0,3-3,3-3,0,estimated,6
+ENG-Premier League,2526,28851,True,94.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,28852,True,92.0,1-2,1-2,0,estimated,7
+ENG-Premier League,2526,28853,True,96.0,2-0,2-0,0,estimated,5
+ENG-Premier League,2526,28854,True,91.0,0-3,0-3,0,estimated,8
+ENG-Premier League,2526,28855,True,98.0,2-0,2-0,0,estimated,7
+ENG-Premier League,2526,28856,True,95.0,1-2,1-2,0,estimated,2
+ENG-Premier League,2526,28857,True,95.0,0-2,0-2,0,estimated,7
+ENG-Premier League,2526,28858,True,90.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,28859,True,91.0,1-0,1-0,0,estimated,3
+ENG-Premier League,2526,28860,True,96.0,1-0,1-0,0,estimated,9
+ENG-Premier League,2526,28861,True,90.0,3-2,3-2,0,estimated,8
+ENG-Premier League,2526,28862,True,95.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,28863,True,90.0,0-3,0-3,0,estimated,4
+ENG-Premier League,2526,28864,True,90.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28865,True,98.0,4-2,4-2,0,estimated,6
+ENG-Premier League,2526,28866,True,97.0,2-1,2-1,0,estimated,10
+ENG-Premier League,2526,28867,True,96.0,2-3,2-3,0,estimated,4
+ENG-Premier League,2526,28868,True,90.0,3-0,3-0,0,estimated,6
+ENG-Premier League,2526,28869,True,97.0,0-2,0-2,0,estimated,2
+ENG-Premier League,2526,28870,True,90.0,2-0,2-0,0,estimated,0
+ENG-Premier League,2526,28871,True,95.0,3-0,3-0,0,estimated,11
+ENG-Premier League,2526,28872,True,90.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,28873,True,94.0,3-1,3-1,0,estimated,2
+ENG-Premier League,2526,28874,True,94.0,2-2,2-2,0,estimated,16
+ENG-Premier League,2526,28875,True,90.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,28876,True,94.0,0-1,0-1,0,estimated,4
+ENG-Premier League,2526,28877,True,97.0,3-1,3-1,0,estimated,6
+ENG-Premier League,2526,28878,True,90.0,4-0,4-0,0,estimated,6
+ENG-Premier League,2526,28879,True,98.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,28880,True,91.0,3-0,3-0,0,estimated,6
+ENG-Premier League,2526,28881,True,97.0,0-0,0-0,0,estimated,2
+ENG-Premier League,2526,28882,True,94.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,28883,True,92.0,3-0,3-0,0,estimated,0
+ENG-Premier League,2526,28884,True,94.0,3-1,3-1,0,estimated,7
+ENG-Premier League,2526,28885,True,97.0,2-2,2-2,0,estimated,6
+ENG-Premier League,2526,28886,True,96.0,2-2,2-2,0,estimated,4
+ENG-Premier League,2526,28887,True,97.0,3-2,3-2,0,estimated,13
+ENG-Premier League,2526,28888,True,94.0,2-2,2-2,0,estimated,15
+ENG-Premier League,2526,28889,True,90.0,4-1,4-1,0,estimated,0
+ENG-Premier League,2526,28890,True,97.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28891,True,96.0,0-2,0-2,0,estimated,4
+ENG-Premier League,2526,28892,True,92.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28893,True,96.0,1-2,1-2,0,estimated,7
+ENG-Premier League,2526,28894,True,95.0,0-3,0-3,0,estimated,16
+ENG-Premier League,2526,28895,True,93.0,0-1,0-1,0,estimated,6
+ENG-Premier League,2526,28896,True,98.0,2-1,2-1,0,estimated,5
+ENG-Premier League,2526,28897,True,90.0,0-2,0-2,0,estimated,8
+ENG-Premier League,2526,28898,True,97.0,1-0,1-0,0,estimated,8
+ENG-Premier League,2526,28899,True,92.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,28900,True,94.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,28901,True,96.0,1-2,1-2,0,estimated,2
+ENG-Premier League,2526,28902,True,96.0,1-4,1-4,0,estimated,11
+ENG-Premier League,2526,28903,True,95.0,3-2,3-2,0,estimated,12
+ENG-Premier League,2526,28904,True,90.0,0-2,0-2,0,estimated,18
+ENG-Premier League,2526,28905,True,90.0,3-2,3-2,0,estimated,7
+ENG-Premier League,2526,28906,True,90.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,28907,True,92.0,0-2,0-2,0,estimated,2
+ENG-Premier League,2526,28908,True,94.0,0-1,0-1,0,estimated,2
+ENG-Premier League,2526,28909,True,96.0,2-0,2-0,0,estimated,8
+ENG-Premier League,2526,28910,True,95.0,3-4,3-4,0,estimated,14
+ENG-Premier League,2526,28911,True,96.0,0-1,0-1,0,estimated,2
+ENG-Premier League,2526,28912,True,99.0,4-5,4-5,0,estimated,7
+ENG-Premier League,2526,28913,True,91.0,3-1,3-1,0,estimated,9
+ENG-Premier League,2526,28914,True,99.0,1-1,1-1,0,estimated,19
+ENG-Premier League,2526,28915,True,95.0,1-1,1-1,0,estimated,9
+ENG-Premier League,2526,28916,True,95.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,28917,True,91.0,0-1,0-1,0,estimated,2
+ENG-Premier League,2526,28918,True,90.0,0-0,0-0,0,estimated,8
+ENG-Premier League,2526,28919,True,95.0,2-1,2-1,0,estimated,10
+ENG-Premier League,2526,28920,True,98.0,1-1,1-1,0,estimated,5
+ENG-Premier League,2526,28921,True,94.0,3-0,3-0,0,estimated,3
+ENG-Premier League,2526,28922,True,94.0,1-2,1-2,0,estimated,5
+ENG-Premier League,2526,28923,True,98.0,3-3,3-3,0,estimated,5
+ENG-Premier League,2526,28924,True,91.0,3-0,3-0,0,estimated,5
+ENG-Premier League,2526,28925,True,98.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28926,True,97.0,2-0,2-0,0,estimated,2
+ENG-Premier League,2526,28927,True,99.0,1-4,1-4,0,estimated,17
+ENG-Premier League,2526,28928,True,97.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28929,True,93.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,28930,True,90.0,2-3,2-3,0,estimated,3
+ENG-Premier League,2526,28931,True,92.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,28932,True,96.0,0-3,0-3,0,estimated,5
+ENG-Premier League,2526,28933,True,100.0,2-0,2-0,0,estimated,4
+ENG-Premier League,2526,28934,True,100.0,4-4,4-4,0,estimated,12
+ENG-Premier League,2526,28935,True,90.0,3-0,3-0,0,estimated,7
+ENG-Premier League,2526,28936,True,90.0,1-0,1-0,0,estimated,0
+ENG-Premier League,2526,28937,True,90.0,2-3,2-3,0,estimated,4
+ENG-Premier League,2526,28938,True,94.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,28939,True,93.0,2-1,2-1,0,estimated,7
+ENG-Premier League,2526,28940,True,94.0,0-0,0-0,0,estimated,8
+ENG-Premier League,2526,28941,True,91.0,0-1,0-1,0,estimated,4
+ENG-Premier League,2526,28942,True,90.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28943,True,101.0,4-1,4-1,0,estimated,10
+ENG-Premier League,2526,28944,True,94.0,3-0,3-0,0,estimated,2
+ENG-Premier League,2526,28945,True,90.0,2-2,2-2,0,estimated,5
+ENG-Premier League,2526,28946,True,96.0,1-2,1-2,0,estimated,10
+ENG-Premier League,2526,28947,True,90.0,0-2,0-2,0,estimated,6
+ENG-Premier League,2526,28948,True,94.0,2-1,2-1,0,estimated,15
+ENG-Premier League,2526,28949,True,96.0,4-1,4-1,0,estimated,15
+ENG-Premier League,2526,28950,True,96.0,0-0,0-0,0,estimated,10
+ENG-Premier League,2526,28951,True,91.0,1-2,1-2,0,estimated,4
+ENG-Premier League,2526,28952,True,97.0,0-1,0-1,0,estimated,2
+ENG-Premier League,2526,28953,True,95.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,28954,True,92.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28955,True,91.0,1-2,1-2,0,estimated,7
+ENG-Premier League,2526,28956,True,90.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,28957,True,90.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,28958,True,98.0,4-1,4-1,0,estimated,15
+ENG-Premier League,2526,28959,True,93.0,0-0,0-0,0,estimated,4
+ENG-Premier League,2526,28960,True,95.0,1-3,1-3,0,estimated,16
+ENG-Premier League,2526,28961,True,95.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,28962,True,95.0,1-1,1-1,0,estimated,16
+ENG-Premier League,2526,28963,True,97.0,0-0,0-0,0,estimated,6
+ENG-Premier League,2526,28964,True,94.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,28965,True,95.0,0-2,0-2,0,estimated,10
+ENG-Premier League,2526,28966,True,94.0,0-0,0-0,0,estimated,7
+ENG-Premier League,2526,28967,True,92.0,2-2,2-2,0,estimated,4
+ENG-Premier League,2526,28968,True,92.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,28969,True,95.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,28970,True,93.0,3-0,3-0,0,estimated,2
+ENG-Premier League,2526,28971,True,96.0,2-3,2-3,0,estimated,6
+ENG-Premier League,2526,28972,True,97.0,3-1,3-1,0,estimated,0
+ENG-Premier League,2526,28973,True,92.0,2-0,2-0,0,estimated,7
+ENG-Premier League,2526,28974,True,91.0,2-4,2-4,0,estimated,6
+ENG-Premier League,2526,28975,True,97.0,2-2,2-2,0,estimated,0
+ENG-Premier League,2526,28976,True,94.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,28977,True,97.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,28978,True,97.0,1-1,1-1,0,estimated,11
+ENG-Premier League,2526,28979,True,100.0,3-2,3-2,0,estimated,12
+ENG-Premier League,2526,28980,True,97.0,0-0,0-0,0,estimated,6
+ENG-Premier League,2526,28981,True,92.0,3-0,3-0,0,estimated,13
+ENG-Premier League,2526,28982,True,95.0,2-2,2-2,0,estimated,12
+ENG-Premier League,2526,28983,True,92.0,0-0,0-0,0,estimated,10
+ENG-Premier League,2526,28984,True,90.0,2-1,2-1,0,estimated,8
+ENG-Premier League,2526,28985,True,93.0,1-1,1-1,0,estimated,10
+ENG-Premier League,2526,28986,True,104.0,4-3,4-3,0,estimated,9
+ENG-Premier League,2526,28987,True,90.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,28988,True,94.0,0-1,0-1,0,estimated,6
+ENG-Premier League,2526,28989,True,100.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,28990,True,98.0,2-0,2-0,0,estimated,2
+ENG-Premier League,2526,28991,True,93.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,28992,True,97.0,1-1,1-1,0,estimated,18
+ENG-Premier League,2526,28993,True,90.0,2-0,2-0,0,estimated,2
+ENG-Premier League,2526,28994,True,92.0,0-0,0-0,0,estimated,8
+ENG-Premier League,2526,28995,True,90.0,2-1,2-1,0,estimated,3
+ENG-Premier League,2526,28996,True,97.0,1-2,1-2,0,estimated,12
+ENG-Premier League,2526,28997,True,96.0,0-0,0-0,0,estimated,4
+ENG-Premier League,2526,28998,True,95.0,3-2,3-2,0,estimated,5
+ENG-Premier League,2526,28999,True,94.0,2-3,2-3,0,estimated,4
+ENG-Premier League,2526,29000,True,93.0,0-2,0-2,0,estimated,4
+ENG-Premier League,2526,29001,True,97.0,2-2,2-2,0,estimated,12
+ENG-Premier League,2526,29002,True,99.0,1-3,1-3,0,estimated,5
+ENG-Premier League,2526,29003,True,94.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29004,True,92.0,2-1,2-1,0,estimated,6
+ENG-Premier League,2526,29005,True,96.0,2-0,2-0,0,estimated,4
+ENG-Premier League,2526,29006,True,95.0,0-2,0-2,0,estimated,4
+ENG-Premier League,2526,29007,True,92.0,3-1,3-1,0,estimated,10
+ENG-Premier League,2526,29008,True,100.0,0-1,0-1,0,estimated,7
+ENG-Premier League,2526,29009,True,95.0,3-2,3-2,0,estimated,6
+ENG-Premier League,2526,29010,True,97.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29011,True,94.0,3-0,3-0,0,estimated,4
+ENG-Premier League,2526,29012,True,94.0,3-2,3-2,0,estimated,8
+ENG-Premier League,2526,29013,True,90.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,29014,True,93.0,4-1,4-1,0,estimated,8
+ENG-Premier League,2526,29015,True,93.0,0-4,0-4,0,estimated,2
+ENG-Premier League,2526,29016,True,90.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,29017,True,95.0,0-2,0-2,0,estimated,6
+ENG-Premier League,2526,29018,True,94.0,1-1,1-1,0,estimated,7
+ENG-Premier League,2526,29019,True,97.0,3-0,3-0,0,estimated,4
+ENG-Premier League,2526,29020,True,94.0,0-1,0-1,0,estimated,3
+ENG-Premier League,2526,29021,True,96.0,0-2,0-2,0,estimated,7
+ENG-Premier League,2526,29022,True,92.0,1-2,1-2,0,estimated,10
+ENG-Premier League,2526,29023,True,99.0,3-1,3-1,0,estimated,14
+ENG-Premier League,2526,29024,True,105.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,29025,True,96.0,2-0,2-0,0,estimated,10
+ENG-Premier League,2526,29026,True,99.0,2-3,2-3,0,estimated,2
+ENG-Premier League,2526,29027,True,97.0,1-3,1-3,0,estimated,8
+ENG-Premier League,2526,29028,True,95.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,29029,True,97.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,29030,True,94.0,2-2,2-2,0,estimated,5
+ENG-Premier League,2526,29031,True,96.0,2-3,2-3,0,estimated,9
+ENG-Premier League,2526,29032,True,91.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,29033,True,94.0,3-0,3-0,0,estimated,6
+ENG-Premier League,2526,29034,True,92.0,0-0,0-0,0,estimated,10
+ENG-Premier League,2526,29035,True,97.0,0-1,0-1,0,estimated,15
+ENG-Premier League,2526,29036,True,93.0,1-2,1-2,0,estimated,14
+ENG-Premier League,2526,29037,True,96.0,1-1,1-1,0,estimated,0
+ENG-Premier League,2526,29038,True,90.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29039,True,90.0,0-2,0-2,0,estimated,6
+ENG-Premier League,2526,29040,True,97.0,1-1,1-1,0,estimated,2
+ENG-Premier League,2526,29041,True,99.0,1-0,1-0,0,estimated,6
+ENG-Premier League,2526,29042,True,93.0,0-1,0-1,0,estimated,7
+ENG-Premier League,2526,29043,True,95.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,29044,True,97.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,29045,True,99.0,1-3,1-3,0,estimated,8
+ENG-Premier League,2526,29046,True,98.0,1-4,1-4,0,estimated,4
+ENG-Premier League,2526,29047,True,95.0,0-0,0-0,0,estimated,12
+ENG-Premier League,2526,29048,True,103.0,1-1,1-1,0,estimated,12
+ENG-Premier League,2526,29049,True,90.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,29050,True,94.0,2-1,2-1,0,estimated,8
+ENG-Premier League,2526,29051,True,97.0,3-4,3-4,0,estimated,11
+ENG-Premier League,2526,29052,True,97.0,2-1,2-1,0,estimated,13
+ENG-Premier League,2526,29053,True,90.0,0-1,0-1,0,estimated,10
+ENG-Premier League,2526,29054,True,95.0,5-2,5-2,0,estimated,12
+ENG-Premier League,2526,29055,True,97.0,2-1,2-1,0,estimated,6
+ENG-Premier League,2526,29056,True,94.0,2-3,2-3,0,estimated,6
+ENG-Premier League,2526,29057,True,98.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,29058,True,93.0,0-0,0-0,0,estimated,2
+ENG-Premier League,2526,29059,True,90.0,1-4,1-4,0,estimated,6
+ENG-Premier League,2526,29060,True,90.0,0-1,0-1,0,estimated,2
+ENG-Premier League,2526,29061,True,98.0,2-0,2-0,0,estimated,6
+ENG-Premier League,2526,29062,True,90.0,0-1,0-1,0,estimated,4
+ENG-Premier League,2526,29063,True,103.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,29064,True,99.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,29065,True,90.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,29066,True,93.0,1-3,1-3,0,estimated,7
+ENG-Premier League,2526,29067,True,97.0,2-1,2-1,0,estimated,7
+ENG-Premier League,2526,29068,True,97.0,2-0,2-0,0,estimated,16
+ENG-Premier League,2526,29069,True,97.0,2-2,2-2,0,estimated,2
+ENG-Premier League,2526,29070,True,96.0,0-0,0-0,0,estimated,13
+ENG-Premier League,2526,29071,True,98.0,0-1,0-1,0,estimated,4
+ENG-Premier League,2526,29072,True,96.0,0-0,0-0,0,estimated,2
+ENG-Premier League,2526,29073,True,96.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29074,True,97.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,29075,True,96.0,0-0,0-0,0,estimated,0
+ENG-Premier League,2526,29076,True,98.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,29077,True,95.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29078,True,97.0,2-2,2-2,0,estimated,4
+ENG-Premier League,2526,29079,True,94.0,2-0,2-0,0,estimated,10
+ENG-Premier League,2526,29080,True,90.0,2-1,2-1,0,estimated,7
+ENG-Premier League,2526,29081,True,93.0,3-0,3-0,0,estimated,7
+ENG-Premier League,2526,29082,True,98.0,3-1,3-1,0,estimated,8
+ENG-Premier League,2526,29083,True,96.0,0-0,0-0,0,estimated,8
+ENG-Premier League,2526,29084,True,95.0,3-0,3-0,0,estimated,4
+ENG-Premier League,2526,29085,True,95.0,1-2,1-2,0,estimated,9
+ENG-Premier League,2526,29086,True,90.0,0-3,0-3,0,estimated,9
+ENG-Premier League,2526,29087,True,95.0,2-2,2-2,0,estimated,2
+ENG-Premier League,2526,29088,True,91.0,1-2,1-2,0,estimated,10
+ENG-Premier League,2526,29089,True,90.0,1-1,1-1,0,estimated,6
+ENG-Premier League,2526,29090,True,97.0,1-0,1-0,0,estimated,4
+ENG-Premier League,2526,29091,True,93.0,4-0,4-0,0,estimated,10
+ENG-Premier League,2526,29092,True,93.0,1-2,1-2,0,estimated,6
+ENG-Premier League,2526,29093,True,93.0,2-2,2-2,0,estimated,12
+ENG-Premier League,2526,29094,True,90.0,0-2,0-2,0,estimated,8
+ENG-Premier League,2526,29095,True,95.0,0-3,0-3,0,estimated,7
+ENG-Premier League,2526,29096,True,98.0,2-1,2-1,0,estimated,4
+ENG-Premier League,2526,29097,True,90.0,2-0,2-0,0,estimated,14
+ENG-Premier League,2526,29098,True,97.0,4-3,4-3,0,estimated,9
+ENG-Premier League,2526,29099,True,94.0,0-0,0-0,0,estimated,4
+ENG-Premier League,2526,29100,True,90.0,0-1,0-1,0,estimated,10
+ENG-Premier League,2526,29101,True,93.0,0-0,0-0,0,estimated,0
+ENG-Premier League,2526,29102,True,100.0,1-2,1-2,0,estimated,2
+ENG-Premier League,2526,29103,True,101.0,3-0,3-0,0,estimated,10
+ENG-Premier League,2526,29104,True,95.0,2-1,2-1,0,estimated,12
+ENG-Premier League,2526,29105,True,94.0,1-2,1-2,0,estimated,7
+ENG-Premier League,2526,29106,True,98.0,4-1,4-1,0,estimated,2
+ENG-Premier League,2526,29107,True,98.0,2-2,2-2,0,estimated,10
+ENG-Premier League,2526,29108,True,97.0,2-2,2-2,0,estimated,7
+ENG-Premier League,2526,29109,True,96.0,1-0,1-0,0,estimated,2
+ENG-Premier League,2526,29110,True,91.0,3-0,3-0,0,estimated,2
+ENG-Premier League,2526,29111,True,92.0,0-1,0-1,0,estimated,12
+ENG-Premier League,2526,29112,True,90.0,1-0,1-0,0,estimated,4
+ENG-Premier League,2526,29113,True,96.0,3-1,3-1,0,estimated,9
+ENG-Premier League,2526,29114,True,90.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,29115,True,95.0,0-5,0-5,0,estimated,10
+ENG-Premier League,2526,29116,True,96.0,2-1,2-1,0,estimated,5
+ENG-Premier League,2526,29117,True,98.0,0-1,0-1,0,estimated,8
+ENG-Premier League,2526,29118,True,95.0,3-0,3-0,0,estimated,4
+ENG-Premier League,2526,29119,True,90.0,3-0,3-0,0,estimated,10
+ENG-Premier League,2526,29120,True,96.0,1-2,1-2,0,estimated,2
+ENG-Premier League,2526,29121,True,97.0,3-0,3-0,0,estimated,8
+ENG-Premier League,2526,29122,True,96.0,1-3,1-3,0,estimated,4
+ENG-Premier League,2526,29123,True,97.0,3-3,3-3,0,estimated,8
+ENG-Premier League,2526,29124,True,100.0,3-1,3-1,0,estimated,14
+ENG-Premier League,2526,29125,True,96.0,3-2,3-2,0,estimated,7
+ENG-Premier League,2526,29126,True,95.0,3-1,3-1,0,estimated,4
+ENG-Premier League,2526,29127,True,92.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29128,True,97.0,3-0,3-0,0,estimated,2
+ENG-Premier League,2526,29129,True,96.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,29130,True,96.0,2-2,2-2,0,estimated,9
+ENG-Premier League,2526,29131,True,95.0,0-1,0-1,0,estimated,4
+ENG-Premier League,2526,29132,True,90.0,1-1,1-1,0,estimated,0
+ENG-Premier League,2526,29133,True,94.0,3-0,3-0,0,estimated,10
+ENG-Premier League,2526,29134,True,94.0,1-1,1-1,0,estimated,12
+ENG-Premier League,2526,29135,True,95.0,0-0,0-0,0,estimated,8
+ENG-Premier League,2526,29136,True,105.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,29137,True,102.0,0-1,0-1,0,estimated,7
+ENG-Premier League,2526,29138,True,97.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29139,True,90.0,1-0,1-0,0,estimated,4
+ENG-Premier League,2526,29140,True,97.0,4-2,4-2,0,estimated,11
+ENG-Premier League,2526,29141,True,101.0,2-2,2-2,0,estimated,10
+ENG-Premier League,2526,29142,True,94.0,2-1,2-1,0,estimated,2
+ENG-Premier League,2526,29143,True,94.0,1-3,1-3,0,estimated,2
+ENG-Premier League,2526,29144,True,98.0,1-0,1-0,0,estimated,5
+ENG-Premier League,2526,29145,True,98.0,3-2,3-2,0,estimated,13
+ENG-Premier League,2526,29146,True,96.0,3-1,3-1,0,estimated,10
+ENG-Premier League,2526,29147,True,92.0,1-1,1-1,0,estimated,4
+ENG-Premier League,2526,29148,True,96.0,0-3,0-3,0,estimated,4
+ENG-Premier League,2526,29149,True,92.0,1-1,1-1,0,estimated,10
+ENG-Premier League,2526,29150,True,98.0,1-2,1-2,0,estimated,8
+ENG-Premier League,2526,29151,True,98.0,2-0,2-0,0,estimated,4
+ENG-Premier League,2526,29152,True,100.0,1-1,1-1,0,estimated,8
+ENG-Premier League,2526,29153,True,100.0,1-2,1-2,0,estimated,4
+ENG-Premier League,2526,29154,True,91.0,1-1,1-1,0,estimated,11
+ENG-Premier League,2526,29155,True,93.0,2-1,2-1,0,estimated,8
+ENG-Premier League,2526,29156,True,100.0,1-0,1-0,0,estimated,13
+ENG-Premier League,2526,29157,True,94.0,3-0,3-0,0,estimated,15
+ESP-La Liga,2526,29158,True,98.0,1-3,1-3,0,estimated,2
+ESP-La Liga,2526,29159,True,95.0,2-0,2-0,0,estimated,8
+ESP-La Liga,2526,29160,True,94.0,0-3,0-3,0,estimated,11
+ESP-La Liga,2526,29161,True,92.0,2-1,2-1,0,estimated,8
+ESP-La Liga,2526,29162,True,92.0,1-1,1-1,0,estimated,10
+ESP-La Liga,2526,29163,True,96.0,0-2,0-2,0,estimated,0
+ESP-La Liga,2526,29164,True,96.0,3-2,3-2,0,estimated,6
+ESP-La Liga,2526,29165,True,96.0,2-1,2-1,0,estimated,0
+ESP-La Liga,2526,29166,True,90.0,1-1,1-1,0,estimated,0
+ESP-La Liga,2526,29167,True,90.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29168,True,95.0,1-0,1-0,0,estimated,8
+ESP-La Liga,2526,29169,True,90.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29170,True,97.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29171,True,91.0,2-3,2-3,0,estimated,13
+ESP-La Liga,2526,29172,True,92.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29173,True,90.0,5-0,5-0,0,estimated,6
+ESP-La Liga,2526,29174,True,92.0,2-2,2-2,0,estimated,6
+ESP-La Liga,2526,29175,True,93.0,0-3,0-3,0,estimated,9
+ESP-La Liga,2526,29176,True,95.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29177,True,94.0,1-2,1-2,0,estimated,8
+ESP-La Liga,2526,29178,True,94.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29179,True,94.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29180,True,97.0,3-0,3-0,0,estimated,2
+ESP-La Liga,2526,29181,True,103.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29182,True,96.0,1-0,1-0,0,estimated,3
+ESP-La Liga,2526,29183,True,95.0,0-2,0-2,0,estimated,13
+ESP-La Liga,2526,29184,True,90.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29185,True,94.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29186,True,97.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29187,True,93.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29188,True,96.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29189,True,90.0,2-2,2-2,0,estimated,0
+ESP-La Liga,2526,29190,True,96.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29191,True,96.0,2-2,2-2,0,estimated,12
+ESP-La Liga,2526,29192,True,95.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29193,True,96.0,2-0,2-0,0,estimated,0
+ESP-La Liga,2526,29194,True,90.0,6-0,6-0,0,estimated,8
+ESP-La Liga,2526,29195,True,92.0,1-2,1-2,0,estimated,14
+ESP-La Liga,2526,29196,True,92.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29197,True,95.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29198,True,95.0,3-2,3-2,0,estimated,9
+ESP-La Liga,2526,29199,True,93.0,3-0,3-0,0,estimated,2
+ESP-La Liga,2526,29200,True,95.0,3-1,3-1,0,estimated,8
+ESP-La Liga,2526,29201,True,90.0,1-0,1-0,0,estimated,9
+ESP-La Liga,2526,29202,True,92.0,0-4,0-4,0,estimated,4
+ESP-La Liga,2526,29203,True,98.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29204,True,91.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29205,True,96.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29206,True,95.0,2-0,2-0,0,estimated,10
+ESP-La Liga,2526,29207,True,94.0,2-1,2-1,0,estimated,12
+ESP-La Liga,2526,29208,True,93.0,1-2,1-2,0,estimated,0
+ESP-La Liga,2526,29209,True,96.0,2-2,2-2,0,estimated,9
+ESP-La Liga,2526,29210,True,94.0,1-4,1-4,0,estimated,15
+ESP-La Liga,2526,29211,True,94.0,1-2,1-2,0,estimated,4
+ESP-La Liga,2526,29212,True,95.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29213,True,90.0,1-3,1-3,0,estimated,8
+ESP-La Liga,2526,29214,True,92.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29215,True,92.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29216,True,96.0,3-2,3-2,0,estimated,8
+ESP-La Liga,2526,29217,True,90.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29218,True,97.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29219,True,93.0,5-2,5-2,0,estimated,0
+ESP-La Liga,2526,29220,True,94.0,2-1,2-1,0,estimated,8
+ESP-La Liga,2526,29221,True,92.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29222,True,93.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29223,True,96.0,0-1,0-1,0,estimated,8
+ESP-La Liga,2526,29224,True,90.0,1-0,1-0,0,estimated,5
+ESP-La Liga,2526,29225,True,90.0,1-0,1-0,0,estimated,12
+ESP-La Liga,2526,29226,True,93.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29227,True,92.0,0-0,0-0,0,estimated,6
+ESP-La Liga,2526,29228,True,97.0,3-1,3-1,0,estimated,4
+ESP-La Liga,2526,29229,True,91.0,2-1,2-1,0,estimated,2
+ESP-La Liga,2526,29230,True,100.0,2-1,2-1,0,estimated,7
+ESP-La Liga,2526,29231,True,94.0,3-1,3-1,0,estimated,16
+ESP-La Liga,2526,29232,True,96.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29233,True,101.0,4-1,4-1,0,estimated,8
+ESP-La Liga,2526,29234,True,103.0,1-2,1-2,0,estimated,5
+ESP-La Liga,2526,29235,True,90.0,2-1,2-1,0,estimated,0
+ESP-La Liga,2526,29236,True,94.0,0-2,0-2,0,estimated,14
+ESP-La Liga,2526,29237,True,96.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29238,True,90.0,0-0,0-0,0,estimated,4
+ESP-La Liga,2526,29239,True,90.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29240,True,93.0,2-1,2-1,0,estimated,8
+ESP-La Liga,2526,29241,True,95.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29242,True,96.0,0-1,0-1,0,estimated,4
+ESP-La Liga,2526,29243,True,96.0,0-3,0-3,0,estimated,4
+ESP-La Liga,2526,29244,True,91.0,0-0,0-0,0,estimated,7
+ESP-La Liga,2526,29245,True,98.0,2-2,2-2,0,estimated,4
+ESP-La Liga,2526,29246,True,95.0,0-2,0-2,0,estimated,12
+ESP-La Liga,2526,29247,True,92.0,1-3,1-3,0,estimated,2
+ESP-La Liga,2526,29248,True,93.0,0-1,0-1,0,estimated,7
+ESP-La Liga,2526,29249,True,97.0,3-3,3-3,0,estimated,4
+ESP-La Liga,2526,29250,True,90.0,2-1,2-1,0,estimated,0
+ESP-La Liga,2526,29251,True,96.0,0-2,0-2,0,estimated,8
+ESP-La Liga,2526,29252,True,95.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29253,True,90.0,0-2,0-2,0,estimated,7
+ESP-La Liga,2526,29254,True,98.0,2-1,2-1,0,estimated,9
+ESP-La Liga,2526,29255,True,98.0,2-3,2-3,0,estimated,2
+ESP-La Liga,2526,29256,True,94.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29257,True,95.0,1-1,1-1,0,estimated,12
+ESP-La Liga,2526,29258,True,96.0,2-1,2-1,0,estimated,9
+ESP-La Liga,2526,29259,True,94.0,3-0,3-0,0,estimated,2
+ESP-La Liga,2526,29260,True,90.0,3-1,3-1,0,estimated,11
+ESP-La Liga,2526,29261,True,93.0,3-0,3-0,0,estimated,4
+ESP-La Liga,2526,29262,True,94.0,2-1,2-1,0,estimated,2
+ESP-La Liga,2526,29263,True,90.0,4-0,4-0,0,estimated,6
+ESP-La Liga,2526,29264,True,92.0,3-2,3-2,0,estimated,6
+ESP-La Liga,2526,29265,True,98.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29266,True,92.0,0-0,0-0,0,estimated,0
+ESP-La Liga,2526,29267,True,92.0,4-0,4-0,0,estimated,10
+ESP-La Liga,2526,29268,True,92.0,1-0,1-0,0,estimated,8
+ESP-La Liga,2526,29269,True,98.0,3-1,3-1,0,estimated,6
+ESP-La Liga,2526,29270,True,96.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29271,True,92.0,0-2,0-2,0,estimated,2
+ESP-La Liga,2526,29272,True,95.0,0-0,0-0,0,estimated,8
+ESP-La Liga,2526,29273,True,94.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29274,True,96.0,2-4,2-4,0,estimated,10
+ESP-La Liga,2526,29275,True,95.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29276,True,90.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29277,True,99.0,1-0,1-0,0,estimated,8
+ESP-La Liga,2526,29278,True,96.0,0-1,0-1,0,estimated,0
+ESP-La Liga,2526,29279,True,90.0,1-1,1-1,0,estimated,11
+ESP-La Liga,2526,29280,True,98.0,2-2,2-2,0,estimated,9
+ESP-La Liga,2526,29281,True,98.0,2-1,2-1,0,estimated,10
+ESP-La Liga,2526,29282,True,96.0,1-3,1-3,0,estimated,4
+ESP-La Liga,2526,29283,True,93.0,0-0,0-0,0,estimated,2
+ESP-La Liga,2526,29284,True,90.0,4-0,4-0,0,estimated,15
+ESP-La Liga,2526,29285,True,94.0,0-1,0-1,0,estimated,6
+ESP-La Liga,2526,29286,True,99.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29287,True,97.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29288,True,92.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29289,True,94.0,0-1,0-1,0,estimated,4
+ESP-La Liga,2526,29290,True,94.0,1-1,1-1,0,estimated,12
+ESP-La Liga,2526,29291,True,97.0,2-2,2-2,0,estimated,2
+ESP-La Liga,2526,29292,True,90.0,1-1,1-1,0,estimated,11
+ESP-La Liga,2526,29293,True,95.0,2-3,2-3,0,estimated,6
+ESP-La Liga,2526,29294,True,93.0,3-1,3-1,0,estimated,12
+ESP-La Liga,2526,29295,True,95.0,0-2,0-2,0,estimated,4
+ESP-La Liga,2526,29296,True,94.0,0-2,0-2,0,estimated,6
+ESP-La Liga,2526,29297,True,96.0,1-0,1-0,0,estimated,5
+ESP-La Liga,2526,29298,True,92.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29299,True,91.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29300,True,92.0,3-0,3-0,0,estimated,2
+ESP-La Liga,2526,29301,True,97.0,1-0,1-0,0,estimated,0
+ESP-La Liga,2526,29302,True,93.0,3-5,3-5,0,estimated,6
+ESP-La Liga,2526,29303,True,95.0,0-2,0-2,0,estimated,8
+ESP-La Liga,2526,29304,True,90.0,2-0,2-0,0,estimated,5
+ESP-La Liga,2526,29305,True,92.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29306,True,97.0,0-0,0-0,0,estimated,11
+ESP-La Liga,2526,29307,True,93.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29308,True,96.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29309,True,92.0,2-1,2-1,0,estimated,5
+ESP-La Liga,2526,29310,True,90.0,2-0,2-0,0,estimated,11
+ESP-La Liga,2526,29311,True,96.0,0-1,0-1,0,estimated,13
+ESP-La Liga,2526,29312,True,92.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29313,True,93.0,0-0,0-0,0,estimated,7
+ESP-La Liga,2526,29314,True,94.0,3-1,3-1,0,estimated,4
+ESP-La Liga,2526,29315,True,95.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29316,True,94.0,1-2,1-2,0,estimated,7
+ESP-La Liga,2526,29317,True,90.0,4-0,4-0,0,estimated,5
+ESP-La Liga,2526,29318,True,93.0,1-2,1-2,0,estimated,9
+ESP-La Liga,2526,29319,True,99.0,4-0,4-0,0,estimated,7
+ESP-La Liga,2526,29320,True,91.0,4-0,4-0,0,estimated,12
+ESP-La Liga,2526,29321,True,96.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29322,True,95.0,2-0,2-0,0,estimated,11
+ESP-La Liga,2526,29323,True,93.0,3-0,3-0,0,estimated,0
+ESP-La Liga,2526,29324,True,92.0,0-3,0-3,0,estimated,4
+ESP-La Liga,2526,29325,True,90.0,0-2,0-2,0,estimated,10
+ESP-La Liga,2526,29326,True,90.0,0-0,0-0,0,estimated,0
+ESP-La Liga,2526,29327,True,90.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29328,True,92.0,1-1,1-1,0,estimated,13
+ESP-La Liga,2526,29329,True,94.0,4-1,4-1,0,estimated,4
+ESP-La Liga,2526,29330,True,94.0,1-3,1-3,0,estimated,2
+ESP-La Liga,2526,29331,True,93.0,1-1,1-1,0,estimated,11
+ESP-La Liga,2526,29332,True,94.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29333,True,90.0,0-2,0-2,0,estimated,7
+ESP-La Liga,2526,29334,True,93.0,5-1,5-1,0,estimated,6
+ESP-La Liga,2526,29335,True,97.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29336,True,96.0,1-2,1-2,0,estimated,2
+ESP-La Liga,2526,29337,True,94.0,0-3,0-3,0,estimated,6
+ESP-La Liga,2526,29338,True,93.0,0-3,0-3,0,estimated,2
+ESP-La Liga,2526,29339,True,96.0,1-2,1-2,0,estimated,2
+ESP-La Liga,2526,29340,True,90.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29341,True,97.0,3-1,3-1,0,estimated,8
+ESP-La Liga,2526,29342,True,96.0,3-1,3-1,0,estimated,6
+ESP-La Liga,2526,29343,True,94.0,1-1,1-1,0,estimated,11
+ESP-La Liga,2526,29344,True,92.0,0-1,0-1,0,estimated,6
+ESP-La Liga,2526,29345,True,92.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29346,True,96.0,1-1,1-1,0,estimated,8
+ESP-La Liga,2526,29347,True,94.0,2-1,2-1,0,estimated,0
+ESP-La Liga,2526,29348,True,95.0,1-0,1-0,0,estimated,13
+ESP-La Liga,2526,29349,True,101.0,3-2,3-2,0,estimated,11
+ESP-La Liga,2526,29350,True,99.0,2-1,2-1,0,estimated,14
+ESP-La Liga,2526,29351,True,94.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29352,True,94.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29353,True,94.0,3-0,3-0,0,estimated,8
+ESP-La Liga,2526,29354,True,92.0,2-2,2-2,0,estimated,12
+ESP-La Liga,2526,29355,True,93.0,0-2,0-2,0,estimated,4
+ESP-La Liga,2526,29356,True,95.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29357,True,100.0,3-2,3-2,0,estimated,2
+ESP-La Liga,2526,29358,True,91.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29359,True,95.0,2-1,2-1,0,estimated,14
+ESP-La Liga,2526,29360,True,93.0,3-0,3-0,0,estimated,7
+ESP-La Liga,2526,29361,True,93.0,3-0,3-0,0,estimated,6
+ESP-La Liga,2526,29362,True,96.0,3-1,3-1,0,estimated,8
+ESP-La Liga,2526,29363,True,96.0,3-2,3-2,0,estimated,13
+ESP-La Liga,2526,29364,True,94.0,3-2,3-2,0,estimated,14
+ESP-La Liga,2526,29365,True,97.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29366,True,97.0,1-3,1-3,0,estimated,10
+ESP-La Liga,2526,29367,True,94.0,0-2,0-2,0,estimated,4
+ESP-La Liga,2526,29368,True,97.0,2-1,2-1,0,estimated,8
+ESP-La Liga,2526,29369,True,96.0,4-1,4-1,0,estimated,8
+ESP-La Liga,2526,29370,True,90.0,2-2,2-2,0,estimated,7
+ESP-La Liga,2526,29371,True,96.0,1-2,1-2,0,estimated,2
+ESP-La Liga,2526,29372,True,94.0,0-0,0-0,0,estimated,6
+ESP-La Liga,2526,29373,True,91.0,1-3,1-3,0,estimated,13
+ESP-La Liga,2526,29374,True,94.0,0-0,0-0,0,estimated,2
+ESP-La Liga,2526,29375,True,93.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29376,True,93.0,1-1,1-1,0,estimated,8
+ESP-La Liga,2526,29377,True,102.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29378,True,95.0,0-2,0-2,0,estimated,6
+ESP-La Liga,2526,29379,True,99.0,4-2,4-2,0,estimated,4
+ESP-La Liga,2526,29380,True,94.0,0-1,0-1,0,estimated,6
+ESP-La Liga,2526,29381,True,92.0,3-0,3-0,0,estimated,15
+ESP-La Liga,2526,29382,True,98.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29383,True,90.0,3-1,3-1,0,estimated,4
+ESP-La Liga,2526,29384,True,93.0,4-1,4-1,0,estimated,0
+ESP-La Liga,2526,29385,True,90.0,3-0,3-0,0,estimated,7
+ESP-La Liga,2526,29386,True,98.0,1-1,1-1,0,estimated,7
+ESP-La Liga,2526,29387,True,95.0,0-2,0-2,0,estimated,0
+ESP-La Liga,2526,29388,True,95.0,0-0,0-0,0,estimated,5
+ESP-La Liga,2526,29389,True,97.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29390,True,91.0,0-2,0-2,0,estimated,2
+ESP-La Liga,2526,29391,True,91.0,4-1,4-1,0,estimated,7
+ESP-La Liga,2526,29392,True,90.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29393,True,95.0,1-2,1-2,0,estimated,4
+ESP-La Liga,2526,29394,True,90.0,3-0,3-0,0,estimated,6
+ESP-La Liga,2526,29395,True,99.0,2-1,2-1,0,estimated,12
+ESP-La Liga,2526,29396,True,94.0,1-2,1-2,0,estimated,11
+ESP-La Liga,2526,29397,True,99.0,2-2,2-2,0,estimated,6
+ESP-La Liga,2526,29398,True,98.0,2-2,2-2,0,estimated,8
+ESP-La Liga,2526,29399,True,90.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29400,True,94.0,4-2,4-2,0,estimated,7
+ESP-La Liga,2526,29401,True,90.0,3-0,3-0,0,estimated,6
+ESP-La Liga,2526,29402,True,98.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29403,True,99.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29404,True,91.0,0-1,0-1,0,estimated,4
+ESP-La Liga,2526,29405,True,90.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29406,True,93.0,2-1,2-1,0,estimated,10
+ESP-La Liga,2526,29407,True,99.0,3-3,3-3,0,estimated,10
+ESP-La Liga,2526,29408,True,95.0,4-1,4-1,0,estimated,2
+ESP-La Liga,2526,29409,True,93.0,2-2,2-2,0,estimated,8
+ESP-La Liga,2526,29410,True,100.0,2-2,2-2,0,estimated,8
+ESP-La Liga,2526,29411,True,90.0,0-1,0-1,0,estimated,0
+ESP-La Liga,2526,29412,True,99.0,2-0,2-0,0,estimated,19
+ESP-La Liga,2526,29413,True,91.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29414,True,94.0,0-1,0-1,0,estimated,6
+ESP-La Liga,2526,29415,True,92.0,1-2,1-2,0,estimated,10
+ESP-La Liga,2526,29416,True,97.0,0-1,0-1,0,estimated,10
+ESP-La Liga,2526,29417,True,97.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29418,True,93.0,0-1,0-1,0,estimated,4
+ESP-La Liga,2526,29419,True,91.0,3-2,3-2,0,estimated,11
+ESP-La Liga,2526,29420,True,94.0,1-2,1-2,0,estimated,5
+ESP-La Liga,2526,29421,True,92.0,1-1,1-1,0,estimated,11
+ESP-La Liga,2526,29422,True,101.0,3-2,3-2,0,estimated,6
+ESP-La Liga,2526,29423,True,90.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29424,True,90.0,2-1,2-1,0,estimated,8
+ESP-La Liga,2526,29425,True,98.0,1-1,1-1,0,estimated,13
+ESP-La Liga,2526,29426,True,99.0,2-2,2-2,0,estimated,4
+ESP-La Liga,2526,29427,True,92.0,1-1,1-1,0,estimated,10
+ESP-La Liga,2526,29428,True,98.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29429,True,96.0,1-0,1-0,0,estimated,8
+ESP-La Liga,2526,29430,True,92.0,5-2,5-2,0,estimated,2
+ESP-La Liga,2526,29431,True,96.0,1-1,1-1,0,estimated,8
+ESP-La Liga,2526,29432,True,95.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29433,True,92.0,3-0,3-0,0,estimated,12
+ESP-La Liga,2526,29434,True,94.0,4-1,4-1,0,estimated,6
+ESP-La Liga,2526,29435,True,97.0,2-1,2-1,0,estimated,18
+ESP-La Liga,2526,29436,True,95.0,1-1,1-1,0,estimated,12
+ESP-La Liga,2526,29437,True,96.0,3-1,3-1,0,estimated,4
+ESP-La Liga,2526,29438,True,92.0,3-1,3-1,0,estimated,13
+ESP-La Liga,2526,29439,True,90.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29440,True,101.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29441,True,91.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29442,True,99.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29443,True,94.0,4-2,4-2,0,estimated,12
+ESP-La Liga,2526,29444,True,95.0,0-2,0-2,0,estimated,4
+ESP-La Liga,2526,29445,True,99.0,3-4,3-4,0,estimated,4
+ESP-La Liga,2526,29446,True,96.0,3-2,3-2,0,estimated,7
+ESP-La Liga,2526,29447,True,94.0,1-0,1-0,0,estimated,8
+ESP-La Liga,2526,29448,True,95.0,2-2,2-2,0,estimated,9
+ESP-La Liga,2526,29449,True,90.0,1-2,1-2,0,estimated,8
+ESP-La Liga,2526,29450,True,94.0,0-0,0-0,0,estimated,8
+ESP-La Liga,2526,29451,True,90.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29452,True,93.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29453,True,91.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29454,True,93.0,2-3,2-3,0,estimated,6
+ESP-La Liga,2526,29455,True,96.0,2-0,2-0,0,estimated,5
+ESP-La Liga,2526,29456,True,90.0,1-0,1-0,0,estimated,7
+ESP-La Liga,2526,29457,True,94.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29458,True,94.0,1-2,1-2,0,estimated,15
+ESP-La Liga,2526,29459,True,90.0,4-1,4-1,0,estimated,8
+ESP-La Liga,2526,29460,True,94.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29461,True,93.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29462,True,91.0,1-1,1-1,0,estimated,12
+ESP-La Liga,2526,29463,True,93.0,2-1,2-1,0,estimated,2
+ESP-La Liga,2526,29464,True,97.0,3-3,3-3,0,estimated,5
+ESP-La Liga,2526,29465,True,95.0,1-0,1-0,0,estimated,7
+ESP-La Liga,2526,29466,True,95.0,3-0,3-0,0,estimated,6
+ESP-La Liga,2526,29467,True,90.0,0-3,0-3,0,estimated,4
+ESP-La Liga,2526,29468,True,97.0,3-2,3-2,0,estimated,0
+ESP-La Liga,2526,29469,True,93.0,0-2,0-2,0,estimated,0
+ESP-La Liga,2526,29470,True,90.0,2-1,2-1,0,estimated,4
+ESP-La Liga,2526,29471,True,91.0,1-2,1-2,0,estimated,4
+ESP-La Liga,2526,29472,True,97.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29473,True,90.0,2-1,2-1,0,estimated,0
+ESP-La Liga,2526,29474,True,95.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29475,True,105.0,3-3,3-3,0,estimated,11
+ESP-La Liga,2526,29476,True,99.0,2-1,2-1,0,estimated,5
+ESP-La Liga,2526,29477,True,96.0,0-0,0-0,0,estimated,2
+ESP-La Liga,2526,29478,True,98.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29479,True,93.0,1-0,1-0,0,estimated,4
+ESP-La Liga,2526,29480,True,93.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29481,True,95.0,1-1,1-1,0,estimated,6
+ESP-La Liga,2526,29482,False,97.0,2-2,1-1,46,estimated,46
+ESP-La Liga,2526,29483,True,93.0,2-1,2-1,0,estimated,21
+ESP-La Liga,2526,29484,True,90.0,3-2,3-2,0,estimated,4
+ESP-La Liga,2526,29485,True,90.0,2-3,2-3,0,estimated,4
+ESP-La Liga,2526,29486,True,98.0,1-0,1-0,0,estimated,6
+ESP-La Liga,2526,29487,True,96.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29488,True,96.0,1-2,1-2,0,estimated,6
+ESP-La Liga,2526,29489,True,96.0,5-1,5-1,0,estimated,5
+ESP-La Liga,2526,29490,True,93.0,1-0,1-0,0,estimated,7
+ESP-La Liga,2526,29491,True,92.0,2-4,2-4,0,estimated,2
+ESP-La Liga,2526,29492,True,91.0,3-0,3-0,0,estimated,2
+ESP-La Liga,2526,29493,True,96.0,3-1,3-1,0,estimated,2
+ESP-La Liga,2526,29494,True,93.0,0-2,0-2,0,estimated,4
+ESP-La Liga,2526,29495,True,97.0,0-2,0-2,0,estimated,12
+ESP-La Liga,2526,29496,True,90.0,0-2,0-2,0,estimated,10
+ESP-La Liga,2526,29497,True,92.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29498,True,95.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29499,True,90.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29500,True,90.0,2-0,2-0,0,estimated,2
+ESP-La Liga,2526,29501,True,95.0,3-2,3-2,0,estimated,11
+ESP-La Liga,2526,29502,True,95.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29503,True,99.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29504,True,97.0,2-2,2-2,0,estimated,8
+ESP-La Liga,2526,29505,True,99.0,2-1,2-1,0,estimated,14
+ESP-La Liga,2526,29506,True,99.0,0-0,0-0,0,estimated,15
+ESP-La Liga,2526,29507,True,97.0,1-1,1-1,0,estimated,4
+ESP-La Liga,2526,29508,True,90.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29509,True,98.0,2-1,2-1,0,estimated,6
+ESP-La Liga,2526,29510,True,98.0,2-3,2-3,0,estimated,8
+ESP-La Liga,2526,29511,True,96.0,3-1,3-1,0,estimated,0
+ESP-La Liga,2526,29512,True,90.0,1-1,1-1,0,estimated,10
+ESP-La Liga,2526,29513,True,92.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29514,True,91.0,1-2,1-2,0,estimated,10
+ESP-La Liga,2526,29515,True,97.0,1-1,1-1,0,estimated,0
+ESP-La Liga,2526,29516,True,90.0,2-3,2-3,0,estimated,0
+ESP-La Liga,2526,29517,True,91.0,2-0,2-0,0,estimated,6
+ESP-La Liga,2526,29518,True,97.0,1-1,1-1,0,estimated,5
+ESP-La Liga,2526,29519,True,93.0,3-1,3-1,0,estimated,0
+ESP-La Liga,2526,29520,True,94.0,1-0,1-0,0,estimated,12
+ESP-La Liga,2526,29521,True,98.0,3-4,3-4,0,estimated,2
+ESP-La Liga,2526,29522,True,94.0,0-1,0-1,0,estimated,2
+ESP-La Liga,2526,29523,True,93.0,1-2,1-2,0,estimated,7
+ESP-La Liga,2526,29524,True,93.0,0-1,0-1,0,estimated,8
+ESP-La Liga,2526,29525,True,96.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29526,True,96.0,2-0,2-0,0,estimated,4
+ESP-La Liga,2526,29527,True,90.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29528,True,94.0,1-2,1-2,0,estimated,13
+ESP-La Liga,2526,29529,True,95.0,2-1,2-1,0,estimated,12
+ESP-La Liga,2526,29530,True,92.0,1-0,1-0,0,estimated,0
+ESP-La Liga,2526,29531,True,94.0,1-1,1-1,0,estimated,8
+ESP-La Liga,2526,29532,True,91.0,4-2,4-2,0,estimated,2
+ESP-La Liga,2526,29533,True,90.0,5-1,5-1,0,estimated,2
+ESP-La Liga,2526,29534,True,97.0,3-1,3-1,0,estimated,9
+ESP-La Liga,2526,29535,True,96.0,1-1,1-1,0,estimated,2
+ESP-La Liga,2526,29536,True,96.0,1-0,1-0,0,estimated,2
+ESP-La Liga,2526,29537,True,92.0,3-0,3-0,0,estimated,9
+FRA-Ligue 1,2526,29538,True,97.0,1-0,1-0,0,estimated,11
+FRA-Ligue 1,2526,29539,True,90.0,0-1,0-1,0,estimated,10
+FRA-Ligue 1,2526,29540,True,99.0,3-1,3-1,0,estimated,7
+FRA-Ligue 1,2526,29541,True,97.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29542,True,93.0,3-3,3-3,0,estimated,10
+FRA-Ligue 1,2526,29543,True,99.0,1-0,1-0,0,estimated,7
+FRA-Ligue 1,2526,29544,True,97.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29545,True,98.0,0-1,0-1,0,estimated,0
+FRA-Ligue 1,2526,29546,True,95.0,0-1,0-1,0,estimated,4
+FRA-Ligue 1,2526,29547,True,91.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29548,True,96.0,5-2,5-2,0,estimated,2
+FRA-Ligue 1,2526,29549,True,94.0,3-1,3-1,0,estimated,10
+FRA-Ligue 1,2526,29550,True,92.0,3-0,3-0,0,estimated,6
+FRA-Ligue 1,2526,29551,True,90.0,4-0,4-0,0,estimated,10
+FRA-Ligue 1,2526,29552,True,90.0,1-0,1-0,0,estimated,5
+FRA-Ligue 1,2526,29553,True,98.0,1-2,1-2,0,estimated,11
+FRA-Ligue 1,2526,29554,True,99.0,2-0,2-0,0,estimated,4
+FRA-Ligue 1,2526,29555,True,99.0,1-0,1-0,0,estimated,8
+FRA-Ligue 1,2526,29556,True,96.0,3-1,3-1,0,estimated,17
+FRA-Ligue 1,2526,29557,True,95.0,1-7,1-7,0,estimated,9
+FRA-Ligue 1,2526,29558,True,90.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29559,True,93.0,3-6,3-6,0,estimated,7
+FRA-Ligue 1,2526,29560,True,91.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29561,True,95.0,3-1,3-1,0,estimated,2
+FRA-Ligue 1,2526,29562,True,96.0,3-2,3-2,0,estimated,13
+FRA-Ligue 1,2526,29563,True,96.0,3-2,3-2,0,estimated,4
+FRA-Ligue 1,2526,29564,True,96.0,1-0,1-0,0,estimated,6
+FRA-Ligue 1,2526,29565,True,91.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29566,True,95.0,1-2,1-2,0,estimated,14
+FRA-Ligue 1,2526,29567,True,98.0,2-1,2-1,0,estimated,15
+FRA-Ligue 1,2526,29568,True,93.0,4-0,4-0,0,estimated,6
+FRA-Ligue 1,2526,29569,True,99.0,1-1,1-1,0,estimated,4
+FRA-Ligue 1,2526,29570,True,97.0,1-0,1-0,0,estimated,8
+FRA-Ligue 1,2526,29571,True,92.0,2-0,2-0,0,estimated,4
+FRA-Ligue 1,2526,29572,True,95.0,3-1,3-1,0,estimated,16
+FRA-Ligue 1,2526,29573,True,96.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29574,True,91.0,1-0,1-0,0,estimated,0
+FRA-Ligue 1,2526,29575,True,93.0,4-1,4-1,0,estimated,9
+FRA-Ligue 1,2526,29576,True,95.0,1-1,1-1,0,estimated,4
+FRA-Ligue 1,2526,29577,True,94.0,3-0,3-0,0,estimated,13
+FRA-Ligue 1,2526,29578,True,96.0,1-0,1-0,0,estimated,15
+FRA-Ligue 1,2526,29579,True,94.0,1-0,1-0,0,estimated,6
+FRA-Ligue 1,2526,29580,True,93.0,5-2,5-2,0,estimated,8
+FRA-Ligue 1,2526,29581,True,96.0,2-2,2-2,0,estimated,7
+FRA-Ligue 1,2526,29582,True,94.0,2-3,2-3,0,estimated,10
+FRA-Ligue 1,2526,29583,True,90.0,0-2,0-2,0,estimated,0
+FRA-Ligue 1,2526,29584,True,96.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29585,True,98.0,3-1,3-1,0,estimated,10
+FRA-Ligue 1,2526,29586,True,94.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29587,True,94.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29588,True,93.0,2-0,2-0,0,estimated,11
+FRA-Ligue 1,2526,29589,True,90.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29590,True,93.0,1-2,1-2,0,estimated,6
+FRA-Ligue 1,2526,29591,True,96.0,2-2,2-2,0,estimated,7
+FRA-Ligue 1,2526,29592,True,96.0,1-2,1-2,0,estimated,6
+FRA-Ligue 1,2526,29593,True,91.0,0-0,0-0,0,estimated,5
+FRA-Ligue 1,2526,29594,True,94.0,2-2,2-2,0,estimated,4
+FRA-Ligue 1,2526,29595,True,95.0,1-1,1-1,0,estimated,5
+FRA-Ligue 1,2526,29596,True,96.0,1-2,1-2,0,estimated,9
+FRA-Ligue 1,2526,29597,True,96.0,0-3,0-3,0,estimated,0
+FRA-Ligue 1,2526,29598,True,99.0,2-2,2-2,0,estimated,4
+FRA-Ligue 1,2526,29599,True,95.0,2-0,2-0,0,estimated,2
+FRA-Ligue 1,2526,29600,True,95.0,5-0,5-0,0,estimated,11
+FRA-Ligue 1,2526,29601,True,95.0,1-1,1-1,0,estimated,11
+FRA-Ligue 1,2526,29602,True,96.0,2-1,2-1,0,estimated,4
+FRA-Ligue 1,2526,29603,True,94.0,3-3,3-3,0,estimated,4
+FRA-Ligue 1,2526,29604,True,93.0,6-2,6-2,0,estimated,4
+FRA-Ligue 1,2526,29605,True,96.0,0-2,0-2,0,estimated,11
+FRA-Ligue 1,2526,29606,True,98.0,3-2,3-2,0,estimated,10
+FRA-Ligue 1,2526,29607,True,90.0,4-0,4-0,0,estimated,4
+FRA-Ligue 1,2526,29608,True,96.0,3-3,3-3,0,estimated,7
+FRA-Ligue 1,2526,29609,True,91.0,2-2,2-2,0,estimated,9
+FRA-Ligue 1,2526,29610,True,93.0,2-0,2-0,0,estimated,10
+FRA-Ligue 1,2526,29611,True,95.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29612,True,95.0,2-1,2-1,0,estimated,5
+FRA-Ligue 1,2526,29613,True,96.0,0-3,0-3,0,estimated,8
+FRA-Ligue 1,2526,29614,True,101.0,1-2,1-2,0,estimated,5
+FRA-Ligue 1,2526,29615,True,92.0,1-0,1-0,0,estimated,6
+FRA-Ligue 1,2526,29616,True,91.0,2-1,2-1,0,estimated,0
+FRA-Ligue 1,2526,29617,True,100.0,6-1,6-1,0,estimated,7
+FRA-Ligue 1,2526,29618,True,96.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29619,True,92.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29620,True,96.0,2-2,2-2,0,estimated,4
+FRA-Ligue 1,2526,29621,True,98.0,1-1,1-1,0,estimated,8
+FRA-Ligue 1,2526,29622,True,95.0,3-3,3-3,0,estimated,4
+FRA-Ligue 1,2526,29623,True,96.0,2-0,2-0,0,estimated,5
+FRA-Ligue 1,2526,29624,True,97.0,3-5,3-5,0,estimated,12
+FRA-Ligue 1,2526,29625,True,98.0,2-0,2-0,0,estimated,11
+FRA-Ligue 1,2526,29626,True,95.0,2-2,2-2,0,estimated,4
+FRA-Ligue 1,2526,29627,True,91.0,3-0,3-0,0,estimated,7
+FRA-Ligue 1,2526,29628,True,95.0,0-1,0-1,0,estimated,2
+FRA-Ligue 1,2526,29629,True,96.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29630,True,90.0,3-0,3-0,0,estimated,4
+FRA-Ligue 1,2526,29631,True,94.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29632,True,99.0,0-1,0-1,0,estimated,7
+FRA-Ligue 1,2526,29633,True,97.0,0-2,0-2,0,estimated,4
+FRA-Ligue 1,2526,29634,True,94.0,1-0,1-0,0,estimated,16
+FRA-Ligue 1,2526,29635,True,95.0,4-1,4-1,0,estimated,10
+FRA-Ligue 1,2526,29636,True,96.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29637,True,90.0,2-0,2-0,0,estimated,6
+FRA-Ligue 1,2526,29638,True,95.0,1-1,1-1,0,estimated,8
+FRA-Ligue 1,2526,29639,True,92.0,1-1,1-1,0,estimated,4
+FRA-Ligue 1,2526,29640,True,95.0,2-3,2-3,0,estimated,6
+FRA-Ligue 1,2526,29641,True,91.0,3-0,3-0,0,estimated,2
+FRA-Ligue 1,2526,29642,True,96.0,2-1,2-1,0,estimated,4
+FRA-Ligue 1,2526,29643,True,93.0,1-4,1-4,0,estimated,12
+FRA-Ligue 1,2526,29644,True,94.0,0-1,0-1,0,estimated,10
+FRA-Ligue 1,2526,29645,True,92.0,2-0,2-0,0,estimated,0
+FRA-Ligue 1,2526,29646,True,93.0,0-0,0-0,0,estimated,9
+FRA-Ligue 1,2526,29647,True,101.0,3-2,3-2,0,estimated,2
+FRA-Ligue 1,2526,29648,True,93.0,1-0,1-0,0,estimated,6
+FRA-Ligue 1,2526,29649,True,96.0,4-2,4-2,0,estimated,7
+FRA-Ligue 1,2526,29650,True,91.0,1-1,1-1,0,estimated,2
+FRA-Ligue 1,2526,29651,True,90.0,1-5,1-5,0,estimated,5
+FRA-Ligue 1,2526,29652,True,92.0,3-0,3-0,0,estimated,15
+FRA-Ligue 1,2526,29653,True,95.0,4-1,4-1,0,estimated,13
+FRA-Ligue 1,2526,29654,True,92.0,0-1,0-1,0,estimated,14
+FRA-Ligue 1,2526,29655,True,97.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29656,True,94.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29657,True,94.0,3-1,3-1,0,estimated,11
+FRA-Ligue 1,2526,29658,True,99.0,3-0,3-0,0,estimated,6
+FRA-Ligue 1,2526,29659,True,96.0,2-2,2-2,0,estimated,5
+FRA-Ligue 1,2526,29660,True,92.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29661,True,97.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29662,True,90.0,1-1,1-1,0,estimated,5
+FRA-Ligue 1,2526,29663,True,96.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29664,True,90.0,3-1,3-1,0,estimated,7
+FRA-Ligue 1,2526,29665,True,93.0,1-0,1-0,0,estimated,8
+FRA-Ligue 1,2526,29666,True,93.0,0-0,0-0,0,estimated,5
+FRA-Ligue 1,2526,29667,True,92.0,1-0,1-0,0,estimated,0
+FRA-Ligue 1,2526,29668,True,90.0,1-0,1-0,0,estimated,7
+FRA-Ligue 1,2526,29669,True,95.0,1-2,1-2,0,estimated,8
+FRA-Ligue 1,2526,29670,True,90.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29671,True,91.0,5-0,5-0,0,estimated,5
+FRA-Ligue 1,2526,29672,True,95.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29673,True,94.0,4-1,4-1,0,estimated,7
+FRA-Ligue 1,2526,29674,True,97.0,3-4,3-4,0,estimated,9
+FRA-Ligue 1,2526,29675,True,94.0,2-0,2-0,0,estimated,4
+FRA-Ligue 1,2526,29676,True,93.0,0-3,0-3,0,estimated,2
+FRA-Ligue 1,2526,29677,True,90.0,2-3,2-3,0,estimated,10
+FRA-Ligue 1,2526,29678,True,91.0,1-0,1-0,0,estimated,12
+FRA-Ligue 1,2526,29679,True,94.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29680,True,98.0,0-0,0-0,0,estimated,0
+FRA-Ligue 1,2526,29681,True,95.0,3-1,3-1,0,estimated,4
+FRA-Ligue 1,2526,29682,True,94.0,2-0,2-0,0,estimated,4
+FRA-Ligue 1,2526,29683,True,96.0,2-1,2-1,0,estimated,5
+FRA-Ligue 1,2526,29684,True,90.0,0-2,0-2,0,estimated,9
+FRA-Ligue 1,2526,29685,True,95.0,1-1,1-1,0,estimated,9
+FRA-Ligue 1,2526,29686,True,90.0,0-2,0-2,0,estimated,10
+FRA-Ligue 1,2526,29687,True,90.0,1-3,1-3,0,estimated,4
+FRA-Ligue 1,2526,29688,True,90.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29689,True,96.0,2-1,2-1,0,estimated,9
+FRA-Ligue 1,2526,29690,True,95.0,0-3,0-3,0,estimated,4
+FRA-Ligue 1,2526,29691,True,95.0,2-5,2-5,0,estimated,7
+FRA-Ligue 1,2526,29692,True,94.0,1-0,1-0,0,estimated,5
+FRA-Ligue 1,2526,29693,True,95.0,2-1,2-1,0,estimated,6
+FRA-Ligue 1,2526,29694,True,91.0,1-3,1-3,0,estimated,4
+FRA-Ligue 1,2526,29695,True,92.0,1-2,1-2,0,estimated,2
+FRA-Ligue 1,2526,29696,True,94.0,3-0,3-0,0,estimated,2
+FRA-Ligue 1,2526,29697,True,99.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29698,True,90.0,2-1,2-1,0,estimated,4
+FRA-Ligue 1,2526,29699,True,94.0,5-1,5-1,0,estimated,7
+FRA-Ligue 1,2526,29700,True,91.0,0-1,0-1,0,estimated,9
+FRA-Ligue 1,2526,29701,True,92.0,0-2,0-2,0,estimated,4
+FRA-Ligue 1,2526,29702,True,90.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29703,True,94.0,1-4,1-4,0,estimated,6
+FRA-Ligue 1,2526,29704,True,90.0,3-1,3-1,0,estimated,2
+FRA-Ligue 1,2526,29705,True,91.0,2-5,2-5,0,estimated,5
+FRA-Ligue 1,2526,29706,True,93.0,1-4,1-4,0,estimated,10
+FRA-Ligue 1,2526,29707,True,94.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29708,True,92.0,0-2,0-2,0,estimated,9
+FRA-Ligue 1,2526,29709,True,93.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29710,True,97.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29711,True,90.0,2-1,2-1,0,estimated,2
+FRA-Ligue 1,2526,29712,True,93.0,1-0,1-0,0,estimated,0
+FRA-Ligue 1,2526,29713,True,97.0,4-0,4-0,0,estimated,3
+FRA-Ligue 1,2526,29714,True,90.0,2-2,2-2,0,estimated,4
+FRA-Ligue 1,2526,29715,True,94.0,2-2,2-2,0,estimated,11
+FRA-Ligue 1,2526,29716,True,93.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29717,True,91.0,0-0,0-0,0,estimated,6
+FRA-Ligue 1,2526,29718,True,90.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29719,True,96.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29720,True,98.0,2-0,2-0,0,estimated,6
+FRA-Ligue 1,2526,29721,True,92.0,2-1,2-1,0,estimated,6
+FRA-Ligue 1,2526,29722,True,92.0,3-1,3-1,0,estimated,4
+FRA-Ligue 1,2526,29723,True,96.0,0-0,0-0,0,estimated,7
+FRA-Ligue 1,2526,29724,True,99.0,0-1,0-1,0,estimated,4
+FRA-Ligue 1,2526,29725,True,90.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29726,True,92.0,5-0,5-0,0,estimated,8
+FRA-Ligue 1,2526,29727,True,97.0,2-1,2-1,0,estimated,8
+FRA-Ligue 1,2526,29728,True,92.0,1-1,1-1,0,estimated,8
+FRA-Ligue 1,2526,29729,True,94.0,2-0,2-0,0,estimated,0
+FRA-Ligue 1,2526,29730,True,94.0,2-0,2-0,0,estimated,6
+FRA-Ligue 1,2526,29731,True,97.0,2-2,2-2,0,estimated,6
+FRA-Ligue 1,2526,29732,True,94.0,1-3,1-3,0,estimated,7
+FRA-Ligue 1,2526,29733,True,94.0,3-1,3-1,0,estimated,4
+FRA-Ligue 1,2526,29734,True,95.0,0-5,0-5,0,estimated,5
+FRA-Ligue 1,2526,29735,True,95.0,3-1,3-1,0,estimated,15
+FRA-Ligue 1,2526,29736,True,90.0,0-1,0-1,0,estimated,7
+FRA-Ligue 1,2526,29737,True,93.0,0-3,0-3,0,estimated,4
+FRA-Ligue 1,2526,29738,True,92.0,2-0,2-0,0,estimated,7
+FRA-Ligue 1,2526,29739,True,93.0,2-3,2-3,0,estimated,4
+FRA-Ligue 1,2526,29740,True,95.0,2-0,2-0,0,estimated,7
+FRA-Ligue 1,2526,29741,True,95.0,3-3,3-3,0,estimated,8
+FRA-Ligue 1,2526,29742,True,92.0,3-0,3-0,0,estimated,2
+FRA-Ligue 1,2526,29743,True,90.0,3-1,3-1,0,estimated,2
+FRA-Ligue 1,2526,29744,True,90.0,1-1,1-1,0,estimated,8
+FRA-Ligue 1,2526,29745,True,95.0,0-1,0-1,0,estimated,9
+FRA-Ligue 1,2526,29746,True,94.0,1-0,1-0,0,estimated,0
+FRA-Ligue 1,2526,29747,True,94.0,2-2,2-2,0,estimated,2
+FRA-Ligue 1,2526,29748,True,91.0,3-2,3-2,0,estimated,6
+FRA-Ligue 1,2526,29749,True,96.0,0-1,0-1,0,estimated,14
+FRA-Ligue 1,2526,29750,True,93.0,2-0,2-0,0,estimated,7
+FRA-Ligue 1,2526,29751,True,92.0,1-0,1-0,0,estimated,10
+FRA-Ligue 1,2526,29752,True,92.0,1-0,1-0,0,estimated,2
+FRA-Ligue 1,2526,29753,True,95.0,1-1,1-1,0,estimated,11
+FRA-Ligue 1,2526,29754,True,90.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29755,True,96.0,2-0,2-0,0,estimated,6
+FRA-Ligue 1,2526,29756,True,93.0,3-0,3-0,0,estimated,8
+FRA-Ligue 1,2526,29757,True,96.0,1-1,1-1,0,estimated,0
+FRA-Ligue 1,2526,29758,True,98.0,1-1,1-1,0,estimated,9
+FRA-Ligue 1,2526,29759,True,91.0,0-1,0-1,0,estimated,6
+FRA-Ligue 1,2526,29760,True,96.0,0-4,0-4,0,estimated,10
+FRA-Ligue 1,2526,29761,True,95.0,1-3,1-3,0,estimated,6
+FRA-Ligue 1,2526,29762,True,95.0,0-1,0-1,0,estimated,10
+FRA-Ligue 1,2526,29763,True,96.0,0-2,0-2,0,estimated,4
+FRA-Ligue 1,2526,29764,True,93.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29765,True,96.0,2-1,2-1,0,estimated,3
+FRA-Ligue 1,2526,29766,True,91.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29767,True,99.0,3-4,3-4,0,estimated,4
+FRA-Ligue 1,2526,29768,True,90.0,2-0,2-0,0,estimated,2
+FRA-Ligue 1,2526,29769,True,91.0,3-0,3-0,0,estimated,0
+FRA-Ligue 1,2526,29770,True,92.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29771,True,90.0,0-0,0-0,0,estimated,0
+FRA-Ligue 1,2526,29772,True,97.0,3-0,3-0,0,estimated,2
+FRA-Ligue 1,2526,29773,True,93.0,5-1,5-1,0,estimated,13
+FRA-Ligue 1,2526,29774,True,98.0,1-2,1-2,0,estimated,15
+FRA-Ligue 1,2526,29775,True,90.0,1-2,1-2,0,estimated,4
+FRA-Ligue 1,2526,29776,True,94.0,2-3,2-3,0,estimated,5
+FRA-Ligue 1,2526,29777,True,93.0,0-4,0-4,0,estimated,2
+FRA-Ligue 1,2526,29778,True,93.0,3-2,3-2,0,estimated,8
+FRA-Ligue 1,2526,29779,True,94.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29780,True,97.0,1-0,1-0,0,estimated,4
+FRA-Ligue 1,2526,29781,True,95.0,0-0,0-0,0,estimated,4
+FRA-Ligue 1,2526,29782,True,97.0,3-4,3-4,0,estimated,7
+FRA-Ligue 1,2526,29783,True,90.0,1-1,1-1,0,estimated,2
+FRA-Ligue 1,2526,29784,True,90.0,3-0,3-0,0,estimated,4
+FRA-Ligue 1,2526,29785,True,97.0,1-1,1-1,0,estimated,5
+FRA-Ligue 1,2526,29786,True,93.0,0-0,0-0,0,estimated,10
+FRA-Ligue 1,2526,29787,True,93.0,2-1,2-1,0,estimated,6
+FRA-Ligue 1,2526,29788,True,92.0,3-1,3-1,0,estimated,7
+FRA-Ligue 1,2526,29789,True,90.0,3-1,3-1,0,estimated,0
+FRA-Ligue 1,2526,29790,True,91.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29791,True,92.0,1-2,1-2,0,estimated,2
+FRA-Ligue 1,2526,29792,True,95.0,0-2,0-2,0,estimated,8
+FRA-Ligue 1,2526,29793,True,90.0,2-0,2-0,0,estimated,7
+FRA-Ligue 1,2526,29794,True,93.0,3-1,3-1,0,estimated,6
+FRA-Ligue 1,2526,29795,True,94.0,1-1,1-1,0,estimated,9
+FRA-Ligue 1,2526,29796,True,91.0,4-1,4-1,0,estimated,15
+FRA-Ligue 1,2526,29797,True,92.0,2-1,2-1,0,estimated,2
+FRA-Ligue 1,2526,29798,True,90.0,0-4,0-4,0,estimated,6
+FRA-Ligue 1,2526,29799,True,94.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29800,True,91.0,3-2,3-2,0,estimated,26
+FRA-Ligue 1,2526,29801,True,96.0,0-0,0-0,0,estimated,2
+FRA-Ligue 1,2526,29802,True,93.0,2-0,2-0,0,estimated,2
+FRA-Ligue 1,2526,29803,True,96.0,1-3,1-3,0,estimated,6
+FRA-Ligue 1,2526,29804,True,90.0,2-2,2-2,0,estimated,11
+FRA-Ligue 1,2526,29805,True,99.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29806,True,94.0,1-2,1-2,0,estimated,7
+FRA-Ligue 1,2526,29807,True,95.0,0-3,0-3,0,estimated,10
+FRA-Ligue 1,2526,29808,True,93.0,0-3,0-3,0,estimated,2
+FRA-Ligue 1,2526,29809,True,96.0,3-3,3-3,0,estimated,7
+FRA-Ligue 1,2526,29810,True,98.0,4-4,4-4,0,estimated,8
+FRA-Ligue 1,2526,29811,True,99.0,2-3,2-3,0,estimated,6
+FRA-Ligue 1,2526,29812,True,90.0,3-2,3-2,0,estimated,3
+FRA-Ligue 1,2526,29813,True,98.0,1-1,1-1,0,estimated,5
+FRA-Ligue 1,2526,29814,True,92.0,0-1,0-1,0,estimated,2
+FRA-Ligue 1,2526,29815,True,99.0,2-1,2-1,0,estimated,19
+FRA-Ligue 1,2526,29816,True,94.0,2-2,2-2,0,estimated,8
+FRA-Ligue 1,2526,29817,True,92.0,3-1,3-1,0,estimated,4
+FRA-Ligue 1,2526,29818,True,94.0,1-1,1-1,0,estimated,0
+FRA-Ligue 1,2526,29819,True,94.0,4-2,4-2,0,estimated,2
+FRA-Ligue 1,2526,29820,True,96.0,1-2,1-2,0,estimated,8
+FRA-Ligue 1,2526,29821,True,91.0,3-0,3-0,0,estimated,6
+FRA-Ligue 1,2526,29822,True,95.0,1-1,1-1,0,estimated,12
+FRA-Ligue 1,2526,29823,True,92.0,4-0,4-0,0,estimated,9
+FRA-Ligue 1,2526,29824,True,90.0,2-2,2-2,0,estimated,10
+FRA-Ligue 1,2526,29825,True,98.0,1-2,1-2,0,estimated,2
+FRA-Ligue 1,2526,29826,True,96.0,1-1,1-1,0,estimated,6
+FRA-Ligue 1,2526,29827,True,96.0,2-1,2-1,0,estimated,6
+FRA-Ligue 1,2526,29828,True,99.0,0-1,0-1,0,estimated,7
+FRA-Ligue 1,2526,29829,True,91.0,1-0,1-0,0,estimated,6
+FRA-Ligue 1,2526,29830,True,98.0,0-4,0-4,0,estimated,6
+FRA-Ligue 1,2526,29831,True,94.0,0-1,0-1,0,estimated,4
+FRA-Ligue 1,2526,29832,True,90.0,1-0,1-0,0,estimated,7
+FRA-Ligue 1,2526,29833,True,92.0,2-1,2-1,0,estimated,8
+FRA-Ligue 1,2526,29834,True,96.0,2-1,2-1,0,estimated,8
+FRA-Ligue 1,2526,29835,True,90.0,1-1,1-1,0,estimated,4
+FRA-Ligue 1,2526,29836,True,94.0,0-2,0-2,0,estimated,6
+FRA-Ligue 1,2526,29837,True,91.0,0-2,0-2,0,estimated,0
+FRA-Ligue 1,2526,29838,True,90.0,0-4,0-4,0,estimated,10
+FRA-Ligue 1,2526,29839,True,97.0,3-1,3-1,0,estimated,20
+FRA-Ligue 1,2526,29841,True,95.0,0-0,0-0,0,estimated,9
+FRA-Ligue 1,2526,29842,True,94.0,2-1,2-1,0,estimated,11
+FRA-Ligue 1,2526,29843,True,95.0,5-4,5-4,0,estimated,14
+GER-Bundesliga,2526,30224,True,95.0,6-0,6-0,0,estimated,6
+GER-Bundesliga,2526,30225,True,94.0,1-3,1-3,0,estimated,0
+GER-Bundesliga,2526,30226,True,94.0,1-2,1-2,0,estimated,0
+GER-Bundesliga,2526,30227,True,98.0,2-1,2-1,0,estimated,8
+GER-Bundesliga,2526,30228,True,90.0,4-1,4-1,0,estimated,6
+GER-Bundesliga,2526,30229,True,90.0,1-3,1-3,0,estimated,4
+GER-Bundesliga,2526,30230,True,98.0,3-3,3-3,0,estimated,0
+GER-Bundesliga,2526,30231,True,100.0,0-1,0-1,0,estimated,11
+GER-Bundesliga,2526,30232,True,92.0,0-0,0-0,0,estimated,8
+GER-Bundesliga,2526,30233,True,98.0,0-2,0-2,0,estimated,2
+GER-Bundesliga,2526,30234,True,95.0,1-3,1-3,0,estimated,7
+GER-Bundesliga,2526,30235,True,93.0,2-0,2-0,0,estimated,6
+GER-Bundesliga,2526,30236,True,94.0,3-3,3-3,0,estimated,4
+GER-Bundesliga,2526,30237,True,91.0,1-0,1-0,0,estimated,6
+GER-Bundesliga,2526,30238,True,103.0,2-3,2-3,0,estimated,4
+GER-Bundesliga,2526,30239,True,94.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30240,True,93.0,3-0,3-0,0,estimated,4
+GER-Bundesliga,2526,30241,True,95.0,4-1,4-1,0,estimated,6
+GER-Bundesliga,2526,30242,True,98.0,3-1,3-1,0,estimated,6
+GER-Bundesliga,2526,30243,True,97.0,3-1,3-1,0,estimated,4
+GER-Bundesliga,2526,30244,True,90.0,0-2,0-2,0,estimated,8
+GER-Bundesliga,2526,30245,True,90.0,0-1,0-1,0,estimated,12
+GER-Bundesliga,2526,30246,True,106.0,3-3,3-3,0,estimated,2
+GER-Bundesliga,2526,30247,True,94.0,2-4,2-4,0,estimated,12
+GER-Bundesliga,2526,30248,True,92.0,5-0,5-0,0,estimated,6
+GER-Bundesliga,2526,30249,True,94.0,2-1,2-1,0,estimated,5
+GER-Bundesliga,2526,30250,True,91.0,0-4,0-4,0,estimated,6
+GER-Bundesliga,2526,30251,True,93.0,2-0,2-0,0,estimated,12
+GER-Bundesliga,2526,30252,True,95.0,0-3,0-3,0,estimated,4
+GER-Bundesliga,2526,30253,True,93.0,1-4,1-4,0,estimated,6
+GER-Bundesliga,2526,30254,True,99.0,2-1,2-1,0,estimated,15
+GER-Bundesliga,2526,30255,True,99.0,1-4,1-4,0,estimated,14
+GER-Bundesliga,2526,30256,True,94.0,3-1,3-1,0,estimated,12
+GER-Bundesliga,2526,30257,True,98.0,3-4,3-4,0,estimated,4
+GER-Bundesliga,2526,30258,True,92.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30259,True,94.0,1-0,1-0,0,estimated,8
+GER-Bundesliga,2526,30260,True,93.0,4-0,4-0,0,estimated,8
+GER-Bundesliga,2526,30261,True,98.0,2-1,2-1,0,estimated,0
+GER-Bundesliga,2526,30262,True,92.0,0-2,0-2,0,estimated,5
+GER-Bundesliga,2526,30263,True,98.0,1-2,1-2,0,estimated,0
+GER-Bundesliga,2526,30264,True,97.0,0-1,0-1,0,estimated,15
+GER-Bundesliga,2526,30265,True,99.0,4-6,4-6,0,estimated,10
+GER-Bundesliga,2526,30266,True,90.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30267,True,96.0,1-2,1-2,0,estimated,14
+GER-Bundesliga,2526,30268,True,97.0,0-0,0-0,0,estimated,11
+GER-Bundesliga,2526,30269,True,92.0,2-0,2-0,0,estimated,10
+GER-Bundesliga,2526,30270,True,92.0,0-0,0-0,0,estimated,2
+GER-Bundesliga,2526,30271,True,91.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30272,True,93.0,0-3,0-3,0,estimated,2
+GER-Bundesliga,2526,30273,True,91.0,4-0,4-0,0,estimated,4
+GER-Bundesliga,2526,30274,True,96.0,0-1,0-1,0,estimated,8
+GER-Bundesliga,2526,30275,True,94.0,1-0,1-0,0,estimated,4
+GER-Bundesliga,2526,30276,True,95.0,3-1,3-1,0,estimated,2
+GER-Bundesliga,2526,30277,True,94.0,1-0,1-0,0,estimated,6
+GER-Bundesliga,2526,30278,True,95.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30279,True,96.0,1-1,1-1,0,estimated,0
+GER-Bundesliga,2526,30280,True,94.0,2-2,2-2,0,estimated,2
+GER-Bundesliga,2526,30281,True,95.0,2-2,2-2,0,estimated,14
+GER-Bundesliga,2526,30282,True,93.0,3-4,3-4,0,estimated,6
+GER-Bundesliga,2526,30283,True,94.0,2-1,2-1,0,estimated,2
+GER-Bundesliga,2526,30284,True,90.0,0-3,0-3,0,estimated,8
+GER-Bundesliga,2526,30285,True,91.0,3-1,3-1,0,estimated,4
+GER-Bundesliga,2526,30286,True,97.0,0-3,0-3,0,estimated,2
+GER-Bundesliga,2526,30287,True,93.0,0-6,0-6,0,estimated,8
+GER-Bundesliga,2526,30288,True,94.0,2-0,2-0,0,estimated,8
+GER-Bundesliga,2526,30289,True,96.0,0-3,0-3,0,estimated,7
+GER-Bundesliga,2526,30290,True,98.0,1-0,1-0,0,estimated,7
+GER-Bundesliga,2526,30291,True,93.0,2-0,2-0,0,estimated,4
+GER-Bundesliga,2526,30292,True,94.0,0-1,0-1,0,estimated,14
+GER-Bundesliga,2526,30293,True,93.0,3-1,3-1,0,estimated,8
+GER-Bundesliga,2526,30294,True,98.0,2-1,2-1,0,estimated,9
+GER-Bundesliga,2526,30295,True,96.0,1-0,1-0,0,estimated,14
+GER-Bundesliga,2526,30296,True,92.0,0-1,0-1,0,estimated,3
+GER-Bundesliga,2526,30297,True,90.0,3-0,3-0,0,estimated,7
+GER-Bundesliga,2526,30298,True,102.0,4-1,4-1,0,estimated,10
+GER-Bundesliga,2526,30299,True,90.0,1-1,1-1,0,estimated,2
+GER-Bundesliga,2526,30300,True,91.0,1-1,1-1,0,estimated,4
+GER-Bundesliga,2526,30301,True,94.0,3-1,3-1,0,estimated,2
+GER-Bundesliga,2526,30302,True,94.0,0-4,0-4,0,estimated,9
+GER-Bundesliga,2526,30303,True,94.0,0-0,0-0,0,estimated,4
+GER-Bundesliga,2526,30304,True,96.0,2-3,2-3,0,estimated,6
+GER-Bundesliga,2526,30305,True,91.0,6-0,6-0,0,estimated,4
+GER-Bundesliga,2526,30306,True,102.0,3-1,3-1,0,estimated,12
+GER-Bundesliga,2526,30307,True,94.0,1-0,1-0,0,estimated,0
+GER-Bundesliga,2526,30308,True,93.0,2-1,2-1,0,estimated,4
+GER-Bundesliga,2526,30309,True,99.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30310,True,96.0,3-1,3-1,0,estimated,8
+GER-Bundesliga,2526,30311,True,90.0,3-2,3-2,0,estimated,16
+GER-Bundesliga,2526,30312,True,96.0,2-2,2-2,0,estimated,2
+GER-Bundesliga,2526,30313,True,94.0,2-1,2-1,0,estimated,4
+GER-Bundesliga,2526,30314,True,95.0,1-0,1-0,0,estimated,4
+GER-Bundesliga,2526,30315,True,95.0,6-2,6-2,0,estimated,6
+GER-Bundesliga,2526,30316,True,91.0,3-3,3-3,0,estimated,3
+GER-Bundesliga,2526,30317,True,94.0,3-4,3-4,0,estimated,4
+GER-Bundesliga,2526,30318,True,90.0,0-3,0-3,0,estimated,4
+GER-Bundesliga,2526,30319,True,95.0,1-1,1-1,0,estimated,10
+GER-Bundesliga,2526,30320,True,96.0,2-0,2-0,0,estimated,6
+GER-Bundesliga,2526,30321,True,91.0,0-1,0-1,0,estimated,8
+GER-Bundesliga,2526,30322,True,95.0,1-3,1-3,0,estimated,6
+GER-Bundesliga,2526,30323,True,90.0,1-2,1-2,0,estimated,3
+GER-Bundesliga,2526,30324,True,96.0,3-1,3-1,0,estimated,4
+GER-Bundesliga,2526,30325,True,96.0,0-0,0-0,0,estimated,4
+GER-Bundesliga,2526,30326,True,98.0,1-1,1-1,0,estimated,4
+GER-Bundesliga,2526,30327,True,90.0,4-0,4-0,0,estimated,11
+GER-Bundesliga,2526,30328,True,94.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30329,True,90.0,3-0,3-0,0,estimated,10
+GER-Bundesliga,2526,30330,True,95.0,1-2,1-2,0,estimated,2
+GER-Bundesliga,2526,30331,True,91.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30332,True,93.0,0-5,0-5,0,estimated,7
+GER-Bundesliga,2526,30333,True,105.0,3-1,3-1,0,estimated,5
+GER-Bundesliga,2526,30334,True,95.0,2-0,2-0,0,estimated,9
+GER-Bundesliga,2526,30335,True,90.0,2-0,2-0,0,estimated,0
+GER-Bundesliga,2526,30336,True,94.0,1-1,1-1,0,estimated,7
+GER-Bundesliga,2526,30337,True,90.0,3-2,3-2,0,estimated,4
+GER-Bundesliga,2526,30338,True,94.0,2-1,2-1,0,estimated,10
+GER-Bundesliga,2526,30339,True,90.0,0-1,0-1,0,estimated,8
+GER-Bundesliga,2526,30340,True,94.0,6-0,6-0,0,estimated,5
+GER-Bundesliga,2526,30341,True,93.0,2-0,2-0,0,estimated,4
+GER-Bundesliga,2526,30342,True,90.0,2-2,2-2,0,estimated,12
+GER-Bundesliga,2526,30343,True,95.0,1-3,1-3,0,estimated,4
+GER-Bundesliga,2526,30344,True,96.0,1-0,1-0,0,estimated,6
+GER-Bundesliga,2526,30345,True,95.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30346,True,96.0,4-1,4-1,0,estimated,2
+GER-Bundesliga,2526,30347,True,92.0,2-1,2-1,0,estimated,10
+GER-Bundesliga,2526,30348,True,93.0,3-1,3-1,0,estimated,8
+GER-Bundesliga,2526,30349,True,97.0,0-4,0-4,0,estimated,2
+GER-Bundesliga,2526,30350,True,97.0,0-0,0-0,0,estimated,8
+GER-Bundesliga,2526,30351,True,97.0,2-0,2-0,0,estimated,0
+GER-Bundesliga,2526,30352,True,97.0,0-1,0-1,0,estimated,8
+GER-Bundesliga,2526,30353,True,97.0,1-1,1-1,0,estimated,7
+GER-Bundesliga,2526,30354,True,92.0,0-4,0-4,0,estimated,10
+GER-Bundesliga,2526,30355,True,92.0,0-0,0-0,0,estimated,5
+GER-Bundesliga,2526,30356,True,97.0,1-3,1-3,0,estimated,9
+GER-Bundesliga,2526,30357,True,90.0,0-0,0-0,0,estimated,2
+GER-Bundesliga,2526,30358,True,97.0,3-4,3-4,0,estimated,15
+GER-Bundesliga,2526,30359,True,90.0,1-4,1-4,0,estimated,5
+GER-Bundesliga,2526,30360,True,93.0,8-1,8-1,0,estimated,2
+GER-Bundesliga,2526,30361,True,94.0,4-0,4-0,0,estimated,8
+GER-Bundesliga,2526,30362,True,95.0,3-3,3-3,0,estimated,8
+GER-Bundesliga,2526,30363,True,97.0,2-1,2-1,0,estimated,9
+GER-Bundesliga,2526,30364,True,92.0,2-2,2-2,0,estimated,12
+GER-Bundesliga,2526,30365,True,93.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30366,True,90.0,2-2,2-2,0,estimated,8
+GER-Bundesliga,2526,30367,True,99.0,0-2,0-2,0,estimated,11
+GER-Bundesliga,2526,30368,True,97.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30369,True,93.0,3-0,3-0,0,estimated,7
+GER-Bundesliga,2526,30370,True,95.0,1-3,1-3,0,estimated,6
+GER-Bundesliga,2526,30371,True,98.0,0-1,0-1,0,estimated,9
+GER-Bundesliga,2526,30372,True,92.0,5-1,5-1,0,estimated,6
+GER-Bundesliga,2526,30373,True,90.0,2-1,2-1,0,estimated,10
+GER-Bundesliga,2526,30374,True,93.0,2-0,2-0,0,estimated,6
+GER-Bundesliga,2526,30375,True,95.0,3-2,3-2,0,estimated,8
+GER-Bundesliga,2526,30376,True,93.0,2-1,2-1,0,estimated,4
+GER-Bundesliga,2526,30377,True,90.0,2-2,2-2,0,estimated,14
+GER-Bundesliga,2526,30378,True,97.0,3-2,3-2,0,estimated,2
+GER-Bundesliga,2526,30379,True,95.0,2-1,2-1,0,estimated,8
+GER-Bundesliga,2526,30380,True,98.0,0-0,0-0,0,estimated,13
+GER-Bundesliga,2526,30381,True,95.0,1-0,1-0,0,estimated,11
+GER-Bundesliga,2526,30382,True,95.0,1-5,1-5,0,estimated,12
+GER-Bundesliga,2526,30383,True,94.0,1-1,1-1,0,estimated,5
+GER-Bundesliga,2526,30384,True,94.0,3-3,3-3,0,estimated,5
+GER-Bundesliga,2526,30385,True,94.0,1-1,1-1,0,estimated,11
+GER-Bundesliga,2526,30386,True,94.0,1-0,1-0,0,estimated,10
+GER-Bundesliga,2526,30387,True,95.0,1-2,1-2,0,estimated,10
+GER-Bundesliga,2526,30388,True,93.0,0-3,0-3,0,estimated,12
+GER-Bundesliga,2526,30389,True,91.0,1-3,1-3,0,estimated,0
+GER-Bundesliga,2526,30390,True,96.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30391,True,90.0,0-3,0-3,0,estimated,8
+GER-Bundesliga,2526,30392,True,93.0,3-1,3-1,0,estimated,6
+GER-Bundesliga,2526,30393,True,90.0,0-0,0-0,0,estimated,4
+GER-Bundesliga,2526,30394,True,94.0,0-3,0-3,0,estimated,6
+GER-Bundesliga,2526,30395,True,95.0,2-1,2-1,0,estimated,15
+GER-Bundesliga,2526,30396,True,98.0,3-2,3-2,0,estimated,4
+GER-Bundesliga,2526,30397,True,95.0,1-3,1-3,0,estimated,5
+GER-Bundesliga,2526,30398,True,96.0,1-0,1-0,0,estimated,6
+GER-Bundesliga,2526,30399,True,95.0,2-2,2-2,0,estimated,8
+GER-Bundesliga,2526,30400,True,97.0,3-1,3-1,0,estimated,4
+GER-Bundesliga,2526,30401,True,90.0,1-2,1-2,0,estimated,4
+GER-Bundesliga,2526,30402,True,92.0,1-0,1-0,0,estimated,6
+GER-Bundesliga,2526,30403,True,96.0,1-1,1-1,0,estimated,5
+GER-Bundesliga,2526,30404,True,92.0,5-1,5-1,0,estimated,10
+GER-Bundesliga,2526,30405,True,90.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30406,True,96.0,1-2,1-2,0,estimated,8
+GER-Bundesliga,2526,30407,True,95.0,1-0,1-0,0,estimated,5
+GER-Bundesliga,2526,30408,True,93.0,0-2,0-2,0,estimated,18
+GER-Bundesliga,2526,30409,True,95.0,2-0,2-0,0,estimated,7
+GER-Bundesliga,2526,30410,True,94.0,2-1,2-1,0,estimated,7
+GER-Bundesliga,2526,30411,True,95.0,1-1,1-1,0,estimated,0
+GER-Bundesliga,2526,30412,True,91.0,1-2,1-2,0,estimated,11
+GER-Bundesliga,2526,30413,True,90.0,1-0,1-0,0,estimated,9
+GER-Bundesliga,2526,30414,True,93.0,4-0,4-0,0,estimated,2
+GER-Bundesliga,2526,30415,True,90.0,4-0,4-0,0,estimated,3
+GER-Bundesliga,2526,30416,True,92.0,3-0,3-0,0,estimated,4
+GER-Bundesliga,2526,30417,True,90.0,3-2,3-2,0,estimated,4
+GER-Bundesliga,2526,30418,True,95.0,3-0,3-0,0,estimated,11
+GER-Bundesliga,2526,30419,True,98.0,2-2,2-2,0,estimated,4
+GER-Bundesliga,2526,30420,True,92.0,3-1,3-1,0,estimated,0
+GER-Bundesliga,2526,30421,True,90.0,0-3,0-3,0,estimated,9
+GER-Bundesliga,2526,30422,True,95.0,3-2,3-2,0,estimated,14
+GER-Bundesliga,2526,30423,True,92.0,2-2,2-2,0,estimated,8
+GER-Bundesliga,2526,30424,True,90.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30425,True,95.0,3-3,3-3,0,estimated,8
+GER-Bundesliga,2526,30426,True,95.0,1-1,1-1,0,estimated,8
+GER-Bundesliga,2526,30427,True,98.0,2-2,2-2,0,estimated,6
+GER-Bundesliga,2526,30428,True,95.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30429,True,97.0,1-0,1-0,0,estimated,4
+GER-Bundesliga,2526,30430,True,96.0,2-3,2-3,0,estimated,4
+GER-Bundesliga,2526,30431,True,95.0,2-0,2-0,0,estimated,8
+GER-Bundesliga,2526,30432,True,97.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30433,True,99.0,1-0,1-0,0,estimated,10
+GER-Bundesliga,2526,30434,True,93.0,2-3,2-3,0,estimated,2
+GER-Bundesliga,2526,30435,True,94.0,2-0,2-0,0,estimated,8
+GER-Bundesliga,2526,30436,True,95.0,1-2,1-2,0,estimated,2
+GER-Bundesliga,2526,30437,True,92.0,0-1,0-1,0,estimated,7
+GER-Bundesliga,2526,30438,True,95.0,4-0,4-0,0,estimated,8
+GER-Bundesliga,2526,30439,True,97.0,2-0,2-0,0,estimated,4
+GER-Bundesliga,2526,30440,True,93.0,4-1,4-1,0,estimated,6
+GER-Bundesliga,2526,30441,True,90.0,1-2,1-2,0,estimated,12
+GER-Bundesliga,2526,30442,True,94.0,3-3,3-3,0,estimated,8
+GER-Bundesliga,2526,30443,True,97.0,2-4,2-4,0,estimated,2
+GER-Bundesliga,2526,30444,True,96.0,2-2,2-2,0,estimated,4
+GER-Bundesliga,2526,30445,True,96.0,2-1,2-1,0,estimated,8
+GER-Bundesliga,2526,30446,True,94.0,0-0,0-0,0,estimated,7
+GER-Bundesliga,2526,30447,True,94.0,1-4,1-4,0,estimated,7
+GER-Bundesliga,2526,30448,True,97.0,1-2,1-2,0,estimated,6
+GER-Bundesliga,2526,30449,True,100.0,1-1,1-1,0,estimated,10
+GER-Bundesliga,2526,30450,True,96.0,2-0,2-0,0,estimated,2
+GER-Bundesliga,2526,30451,True,94.0,2-0,2-0,0,estimated,6
+GER-Bundesliga,2526,30452,True,90.0,1-0,1-0,0,estimated,5
+GER-Bundesliga,2526,30453,True,103.0,0-1,0-1,0,estimated,6
+GER-Bundesliga,2526,30454,True,98.0,1-1,1-1,0,estimated,5
+GER-Bundesliga,2526,30455,True,98.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30456,True,96.0,1-0,1-0,0,estimated,2
+GER-Bundesliga,2526,30457,True,91.0,0-2,0-2,0,estimated,4
+GER-Bundesliga,2526,30458,True,91.0,2-5,2-5,0,estimated,7
+GER-Bundesliga,2526,30459,True,90.0,4-0,4-0,0,estimated,9
+GER-Bundesliga,2526,30460,True,93.0,3-2,3-2,0,estimated,4
+GER-Bundesliga,2526,30461,True,93.0,3-3,3-3,0,estimated,2
+GER-Bundesliga,2526,30462,True,97.0,3-3,3-3,0,estimated,2
+GER-Bundesliga,2526,30463,True,96.0,2-1,2-1,0,estimated,4
+GER-Bundesliga,2526,30464,True,90.0,5-0,5-0,0,estimated,6
+GER-Bundesliga,2526,30465,True,98.0,1-2,1-2,0,estimated,10
+GER-Bundesliga,2526,30466,True,90.0,0-1,0-1,0,estimated,4
+GER-Bundesliga,2526,30467,True,96.0,6-3,6-3,0,estimated,11
+GER-Bundesliga,2526,30468,True,94.0,2-2,2-2,0,estimated,10
+GER-Bundesliga,2526,30469,True,98.0,2-2,2-2,0,estimated,8
+GER-Bundesliga,2526,30470,True,101.0,2-3,2-3,0,estimated,11
+GER-Bundesliga,2526,30471,True,93.0,1-1,1-1,0,estimated,10
+GER-Bundesliga,2526,30472,True,90.0,1-2,1-2,0,estimated,7
+GER-Bundesliga,2526,30473,True,96.0,0-2,0-2,0,estimated,2
+GER-Bundesliga,2526,30474,True,90.0,1-1,1-1,0,estimated,10
+GER-Bundesliga,2526,30475,True,94.0,1-2,1-2,0,estimated,2
+GER-Bundesliga,2526,30476,True,96.0,2-2,2-2,0,estimated,7
+GER-Bundesliga,2526,30477,True,93.0,0-1,0-1,0,estimated,4
+GER-Bundesliga,2526,30478,True,97.0,3-1,3-1,0,estimated,9
+GER-Bundesliga,2526,30479,True,98.0,3-1,3-1,0,estimated,2
+GER-Bundesliga,2526,30480,True,92.0,0-1,0-1,0,estimated,6
+GER-Bundesliga,2526,30481,True,97.0,1-0,1-0,0,estimated,10
+GER-Bundesliga,2526,30482,True,92.0,0-5,0-5,0,estimated,6
+GER-Bundesliga,2526,30483,True,91.0,4-0,4-0,0,estimated,4
+GER-Bundesliga,2526,30484,True,97.0,1-2,1-2,0,estimated,12
+GER-Bundesliga,2526,30485,True,101.0,1-2,1-2,0,estimated,17
+GER-Bundesliga,2526,30486,True,93.0,4-2,4-2,0,estimated,15
+GER-Bundesliga,2526,30487,True,98.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30488,True,90.0,1-3,1-3,0,estimated,13
+GER-Bundesliga,2526,30489,True,95.0,2-1,2-1,0,estimated,4
+GER-Bundesliga,2526,30490,True,103.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30491,True,95.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30492,True,95.0,1-2,1-2,0,estimated,8
+GER-Bundesliga,2526,30493,True,101.0,3-1,3-1,0,estimated,2
+GER-Bundesliga,2526,30494,True,92.0,1-1,1-1,0,estimated,14
+GER-Bundesliga,2526,30495,True,95.0,4-0,4-0,0,estimated,4
+GER-Bundesliga,2526,30496,True,97.0,1-2,1-2,0,estimated,10
+GER-Bundesliga,2526,30497,True,95.0,1-2,1-2,0,estimated,6
+GER-Bundesliga,2526,30498,True,95.0,2-0,2-0,0,estimated,4
+GER-Bundesliga,2526,30499,True,96.0,3-4,3-4,0,estimated,14
+GER-Bundesliga,2526,30500,True,94.0,3-1,3-1,0,estimated,2
+GER-Bundesliga,2526,30501,True,93.0,1-1,1-1,0,estimated,2
+GER-Bundesliga,2526,30502,True,94.0,0-0,0-0,0,estimated,2
+GER-Bundesliga,2526,30503,True,90.0,4-1,4-1,0,estimated,17
+GER-Bundesliga,2526,30504,True,100.0,3-3,3-3,0,estimated,8
+GER-Bundesliga,2526,30505,True,90.0,1-0,1-0,0,estimated,4
+GER-Bundesliga,2526,30506,True,97.0,1-2,1-2,0,estimated,0
+GER-Bundesliga,2526,30507,True,91.0,1-1,1-1,0,estimated,6
+GER-Bundesliga,2526,30508,True,95.0,3-3,3-3,0,estimated,12
+GER-Bundesliga,2526,30509,True,94.0,1-2,1-2,0,estimated,12
+GER-Bundesliga,2526,30510,True,94.0,2-2,2-2,0,estimated,6
+GER-Bundesliga,2526,30511,True,92.0,1-3,1-3,0,estimated,10
+GER-Bundesliga,2526,30512,True,94.0,3-1,3-1,0,estimated,10
+GER-Bundesliga,2526,30513,True,90.0,3-2,3-2,0,estimated,4
+GER-Bundesliga,2526,30514,True,95.0,1-3,1-3,0,estimated,9
+GER-Bundesliga,2526,30515,True,95.0,3-2,3-2,0,estimated,0
+GER-Bundesliga,2526,30516,True,94.0,1-0,1-0,0,estimated,4
+GER-Bundesliga,2526,30517,True,95.0,1-3,1-3,0,estimated,6
+GER-Bundesliga,2526,30518,True,94.0,2-1,2-1,0,estimated,6
+GER-Bundesliga,2526,30519,True,90.0,3-1,3-1,0,estimated,4
+GER-Bundesliga,2526,30520,True,95.0,0-1,0-1,0,estimated,11
+GER-Bundesliga,2526,30521,True,98.0,1-1,1-1,0,estimated,17
+GER-Bundesliga,2526,30522,True,92.0,5-1,5-1,0,estimated,7
+GER-Bundesliga,2526,30523,True,91.0,4-0,4-0,0,estimated,6
+GER-Bundesliga,2526,30524,True,94.0,2-2,2-2,0,estimated,8
+GER-Bundesliga,2526,30525,True,94.0,4-1,4-1,0,estimated,6
+GER-Bundesliga,2526,30526,True,93.0,0-2,0-2,0,estimated,12
+GER-Bundesliga,2526,30527,True,95.0,1-3,1-3,0,estimated,9
+GER-Bundesliga,2526,30528,True,93.0,4-0,4-0,0,estimated,10
+GER-Bundesliga,2526,30529,True,95.0,0-2,0-2,0,estimated,7
+ITA-Serie A,2526,29844,True,90.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,29845,True,94.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,29846,True,94.0,1-2,1-2,0,estimated,6
+ITA-Serie A,2526,29847,True,92.0,1-0,1-0,0,estimated,2
+ITA-Serie A,2526,29848,True,94.0,1-1,1-1,0,estimated,2
+ITA-Serie A,2526,29849,True,94.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,29850,True,92.0,1-1,1-1,0,estimated,13
+ITA-Serie A,2526,29851,True,94.0,2-0,2-0,0,estimated,11
+ITA-Serie A,2526,29852,True,93.0,1-1,1-1,0,estimated,2
+ITA-Serie A,2526,29853,True,90.0,5-0,5-0,0,estimated,8
+ITA-Serie A,2526,29854,True,93.0,3-2,3-2,0,estimated,6
+ITA-Serie A,2526,29855,True,90.0,0-2,0-2,0,estimated,6
+ITA-Serie A,2526,29856,True,95.0,1-0,1-0,0,estimated,12
+ITA-Serie A,2526,29857,True,90.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,29858,True,92.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,29859,True,95.0,1-0,1-0,0,estimated,7
+ITA-Serie A,2526,29860,True,97.0,0-1,0-1,0,estimated,7
+ITA-Serie A,2526,29861,True,92.0,0-0,0-0,0,estimated,8
+ITA-Serie A,2526,29862,True,96.0,1-2,1-2,0,estimated,10
+ITA-Serie A,2526,29863,True,91.0,4-0,4-0,0,estimated,12
+ITA-Serie A,2526,29864,True,95.0,2-0,2-0,0,estimated,11
+ITA-Serie A,2526,29865,True,96.0,4-3,4-3,0,estimated,10
+ITA-Serie A,2526,29866,True,95.0,1-3,1-3,0,estimated,13
+ITA-Serie A,2526,29867,True,98.0,0-1,0-1,0,estimated,10
+ITA-Serie A,2526,29868,True,95.0,0-1,0-1,0,estimated,5
+ITA-Serie A,2526,29869,True,93.0,4-1,4-1,0,estimated,7
+ITA-Serie A,2526,29870,True,96.0,1-0,1-0,0,estimated,8
+ITA-Serie A,2526,29871,True,90.0,1-0,1-0,0,estimated,2
+ITA-Serie A,2526,29872,True,93.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,29873,True,94.0,1-1,1-1,0,estimated,9
+ITA-Serie A,2526,29874,True,92.0,0-3,0-3,0,estimated,4
+ITA-Serie A,2526,29875,True,94.0,0-3,0-3,0,estimated,6
+ITA-Serie A,2526,29876,True,91.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,29877,True,99.0,2-1,2-1,0,estimated,5
+ITA-Serie A,2526,29878,True,91.0,0-0,0-0,0,estimated,7
+ITA-Serie A,2526,29879,True,99.0,1-2,1-2,0,estimated,8
+ITA-Serie A,2526,29880,True,95.0,2-1,2-1,0,estimated,7
+ITA-Serie A,2526,29881,True,97.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,29882,True,90.0,1-2,1-2,0,estimated,5
+ITA-Serie A,2526,29883,True,90.0,3-2,3-2,0,estimated,11
+ITA-Serie A,2526,29884,True,90.0,0-2,0-2,0,estimated,6
+ITA-Serie A,2526,29885,True,95.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,29886,True,95.0,0-3,0-3,0,estimated,11
+ITA-Serie A,2526,29887,True,96.0,1-1,1-1,0,estimated,3
+ITA-Serie A,2526,29888,True,94.0,2-2,2-2,0,estimated,8
+ITA-Serie A,2526,29889,True,98.0,2-1,2-1,0,estimated,2
+ITA-Serie A,2526,29890,True,90.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,29891,True,92.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,29892,True,90.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,29893,True,90.0,3-1,3-1,0,estimated,6
+ITA-Serie A,2526,29894,True,95.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,29895,True,90.0,4-0,4-0,0,estimated,7
+ITA-Serie A,2526,29896,True,90.0,1-2,1-2,0,estimated,2
+ITA-Serie A,2526,29897,True,94.0,4-1,4-1,0,estimated,6
+ITA-Serie A,2526,29898,True,92.0,0-0,0-0,0,estimated,8
+ITA-Serie A,2526,29899,True,103.0,3-3,3-3,0,estimated,10
+ITA-Serie A,2526,29900,True,90.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,29901,True,93.0,0-1,0-1,0,estimated,0
+ITA-Serie A,2526,29902,True,91.0,1-1,1-1,0,estimated,9
+ITA-Serie A,2526,29903,True,95.0,0-1,0-1,0,estimated,5
+ITA-Serie A,2526,29904,True,90.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,29905,True,94.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,29906,True,93.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,29907,True,94.0,2-0,2-0,0,estimated,6
+ITA-Serie A,2526,29908,True,93.0,1-1,1-1,0,estimated,2
+ITA-Serie A,2526,29909,True,98.0,0-0,0-0,0,estimated,13
+ITA-Serie A,2526,29910,True,94.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,29911,True,97.0,2-1,2-1,0,estimated,0
+ITA-Serie A,2526,29912,True,94.0,0-0,0-0,0,estimated,6
+ITA-Serie A,2526,29913,True,91.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,29914,True,96.0,3-2,3-2,0,estimated,2
+ITA-Serie A,2526,29915,True,92.0,2-2,2-2,0,estimated,5
+ITA-Serie A,2526,29916,True,90.0,1-1,1-1,0,estimated,7
+ITA-Serie A,2526,29917,True,99.0,2-2,2-2,0,estimated,12
+ITA-Serie A,2526,29918,True,94.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,29919,True,99.0,2-2,2-2,0,estimated,3
+ITA-Serie A,2526,29920,True,95.0,3-1,3-1,0,estimated,6
+ITA-Serie A,2526,29921,True,95.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,29922,True,96.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,29923,True,96.0,2-1,2-1,0,estimated,10
+ITA-Serie A,2526,29924,True,90.0,1-1,1-1,0,estimated,6
+ITA-Serie A,2526,29925,True,90.0,0-0,0-0,0,estimated,6
+ITA-Serie A,2526,29926,True,94.0,1-2,1-2,0,estimated,0
+ITA-Serie A,2526,29927,True,95.0,3-1,3-1,0,estimated,12
+ITA-Serie A,2526,29928,True,96.0,0-2,0-2,0,estimated,6
+ITA-Serie A,2526,29929,True,93.0,3-0,3-0,0,estimated,12
+ITA-Serie A,2526,29930,True,99.0,3-1,3-1,0,estimated,14
+ITA-Serie A,2526,29931,True,96.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,29932,True,90.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,29933,True,93.0,2-1,2-1,0,estimated,11
+ITA-Serie A,2526,29934,True,90.0,1-2,1-2,0,estimated,7
+ITA-Serie A,2526,29935,True,96.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,29936,True,93.0,2-0,2-0,0,estimated,6
+ITA-Serie A,2526,29937,True,93.0,1-0,1-0,0,estimated,9
+ITA-Serie A,2526,29938,True,90.0,0-0,0-0,0,estimated,7
+ITA-Serie A,2526,29939,True,92.0,1-3,1-3,0,estimated,10
+ITA-Serie A,2526,29940,True,93.0,1-2,1-2,0,estimated,8
+ITA-Serie A,2526,29941,True,91.0,2-2,2-2,0,estimated,9
+ITA-Serie A,2526,29942,True,95.0,1-0,1-0,0,estimated,0
+ITA-Serie A,2526,29943,True,95.0,1-2,1-2,0,estimated,10
+ITA-Serie A,2526,29944,True,90.0,0-3,0-3,0,estimated,5
+ITA-Serie A,2526,29945,True,90.0,2-0,2-0,0,estimated,4
+ITA-Serie A,2526,29946,True,90.0,0-0,0-0,0,estimated,8
+ITA-Serie A,2526,29947,True,91.0,2-2,2-2,0,estimated,3
+ITA-Serie A,2526,29948,True,90.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,29949,True,90.0,0-0,0-0,0,estimated,14
+ITA-Serie A,2526,29950,True,90.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,29951,True,90.0,2-2,2-2,0,estimated,4
+ITA-Serie A,2526,29952,True,90.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,29953,True,92.0,2-0,2-0,0,estimated,12
+ITA-Serie A,2526,29954,True,93.0,1-2,1-2,0,estimated,10
+ITA-Serie A,2526,29955,True,91.0,3-3,3-3,0,estimated,6
+ITA-Serie A,2526,29956,True,93.0,1-3,1-3,0,estimated,2
+ITA-Serie A,2526,29957,True,93.0,1-1,1-1,0,estimated,10
+ITA-Serie A,2526,29958,True,92.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,29959,True,95.0,2-0,2-0,0,estimated,9
+ITA-Serie A,2526,29960,True,94.0,3-1,3-1,0,estimated,4
+ITA-Serie A,2526,29961,True,95.0,2-2,2-2,0,estimated,4
+ITA-Serie A,2526,29962,True,90.0,1-5,1-5,0,estimated,10
+ITA-Serie A,2526,29963,True,94.0,0-3,0-3,0,estimated,2
+ITA-Serie A,2526,29964,True,94.0,2-0,2-0,0,estimated,6
+ITA-Serie A,2526,29965,True,98.0,1-3,1-3,0,estimated,11
+ITA-Serie A,2526,29966,True,97.0,2-0,2-0,0,estimated,8
+ITA-Serie A,2526,29967,True,90.0,2-1,2-1,0,estimated,11
+ITA-Serie A,2526,29968,True,90.0,2-1,2-1,0,estimated,6
+ITA-Serie A,2526,29969,True,94.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,29970,True,90.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,29971,True,94.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,29972,True,90.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,29973,True,90.0,0-1,0-1,0,estimated,4
+ITA-Serie A,2526,29974,True,90.0,1-0,1-0,0,estimated,7
+ITA-Serie A,2526,29975,True,96.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,29976,True,93.0,4-0,4-0,0,estimated,6
+ITA-Serie A,2526,29977,True,94.0,1-1,1-1,0,estimated,10
+ITA-Serie A,2526,29978,True,94.0,2-1,2-1,0,estimated,0
+ITA-Serie A,2526,29979,True,92.0,0-1,0-1,0,estimated,4
+ITA-Serie A,2526,29980,True,90.0,3-1,3-1,0,estimated,2
+ITA-Serie A,2526,29981,True,90.0,2-3,2-3,0,estimated,8
+ITA-Serie A,2526,29982,True,95.0,1-2,1-2,0,estimated,16
+ITA-Serie A,2526,29983,True,94.0,3-1,3-1,0,estimated,7
+ITA-Serie A,2526,29984,True,90.0,2-1,2-1,0,estimated,14
+ITA-Serie A,2526,29985,True,95.0,0-1,0-1,0,estimated,8
+ITA-Serie A,2526,29986,True,93.0,1-2,1-2,0,estimated,9
+ITA-Serie A,2526,29987,True,91.0,1-2,1-2,0,estimated,9
+ITA-Serie A,2526,29988,True,95.0,1-0,1-0,0,estimated,10
+ITA-Serie A,2526,29989,True,96.0,2-2,2-2,0,estimated,2
+ITA-Serie A,2526,29990,True,96.0,0-1,0-1,0,estimated,9
+ITA-Serie A,2526,29991,True,93.0,1-0,1-0,0,estimated,9
+ITA-Serie A,2526,29992,True,98.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,29993,True,95.0,1-0,1-0,0,estimated,3
+ITA-Serie A,2526,29994,True,96.0,2-2,2-2,0,estimated,8
+ITA-Serie A,2526,29995,True,94.0,1-3,1-3,0,estimated,2
+ITA-Serie A,2526,29996,True,90.0,5-1,5-1,0,estimated,6
+ITA-Serie A,2526,29997,True,94.0,0-1,0-1,0,estimated,0
+ITA-Serie A,2526,29998,True,90.0,1-0,1-0,0,estimated,15
+ITA-Serie A,2526,29999,True,94.0,2-1,2-1,0,estimated,10
+ITA-Serie A,2526,30000,True,97.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,30001,True,95.0,0-0,0-0,0,estimated,5
+ITA-Serie A,2526,30002,True,94.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,30003,True,90.0,2-3,2-3,0,estimated,12
+ITA-Serie A,2526,30004,True,90.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,30005,True,94.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,30006,True,93.0,0-3,0-3,0,estimated,4
+ITA-Serie A,2526,30007,True,93.0,3-0,3-0,0,estimated,8
+ITA-Serie A,2526,30008,True,93.0,1-0,1-0,0,estimated,10
+ITA-Serie A,2526,30009,True,92.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,30010,True,90.0,3-1,3-1,0,estimated,8
+ITA-Serie A,2526,30011,True,91.0,1-2,1-2,0,estimated,6
+ITA-Serie A,2526,30012,True,95.0,1-1,1-1,0,estimated,10
+ITA-Serie A,2526,30013,True,90.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,30014,True,95.0,1-0,1-0,0,estimated,9
+ITA-Serie A,2526,30015,True,90.0,0-1,0-1,0,estimated,0
+ITA-Serie A,2526,30016,True,90.0,1-0,1-0,0,estimated,0
+ITA-Serie A,2526,30017,True,94.0,1-0,1-0,0,estimated,13
+ITA-Serie A,2526,30018,True,90.0,1-1,1-1,0,estimated,2
+ITA-Serie A,2526,30019,True,93.0,3-1,3-1,0,estimated,6
+ITA-Serie A,2526,30020,True,94.0,1-1,1-1,0,estimated,12
+ITA-Serie A,2526,30021,True,92.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,30022,True,90.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,30023,True,95.0,0-3,0-3,0,estimated,8
+ITA-Serie A,2526,30024,True,95.0,0-2,0-2,0,estimated,8
+ITA-Serie A,2526,30025,True,95.0,2-2,2-2,0,estimated,9
+ITA-Serie A,2526,30026,True,95.0,2-2,2-2,0,estimated,8
+ITA-Serie A,2526,30027,True,93.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,30028,True,99.0,1-1,1-1,0,estimated,12
+ITA-Serie A,2526,30029,True,95.0,2-2,2-2,0,estimated,2
+ITA-Serie A,2526,30030,True,98.0,0-2,0-2,0,estimated,8
+ITA-Serie A,2526,30031,True,96.0,0-3,0-3,0,estimated,4
+ITA-Serie A,2526,30032,True,90.0,0-3,0-3,0,estimated,6
+ITA-Serie A,2526,30033,True,94.0,1-2,1-2,0,estimated,0
+ITA-Serie A,2526,30034,True,95.0,2-0,2-0,0,estimated,4
+ITA-Serie A,2526,30035,True,94.0,1-1,1-1,0,estimated,6
+ITA-Serie A,2526,30036,True,97.0,1-1,1-1,0,estimated,9
+ITA-Serie A,2526,30037,True,90.0,3-0,3-0,0,estimated,13
+ITA-Serie A,2526,30038,True,93.0,2-2,2-2,0,estimated,2
+ITA-Serie A,2526,30039,True,90.0,5-0,5-0,0,estimated,12
+ITA-Serie A,2526,30040,True,97.0,1-2,1-2,0,estimated,9
+ITA-Serie A,2526,30041,True,95.0,2-0,2-0,0,estimated,9
+ITA-Serie A,2526,30042,True,90.0,2-2,2-2,0,estimated,9
+ITA-Serie A,2526,30043,True,95.0,0-1,0-1,0,estimated,4
+ITA-Serie A,2526,30044,True,94.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,30045,True,90.0,0-3,0-3,0,estimated,2
+ITA-Serie A,2526,30046,True,94.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,30047,True,94.0,1-0,1-0,0,estimated,7
+ITA-Serie A,2526,30048,True,90.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,30049,True,90.0,1-1,1-1,0,estimated,10
+ITA-Serie A,2526,30050,True,93.0,0-2,0-2,0,estimated,7
+ITA-Serie A,2526,30051,True,90.0,0-1,0-1,0,estimated,0
+ITA-Serie A,2526,30052,True,96.0,1-2,1-2,0,estimated,8
+ITA-Serie A,2526,30053,True,96.0,1-0,1-0,0,estimated,2
+ITA-Serie A,2526,30054,True,94.0,4-0,4-0,0,estimated,15
+ITA-Serie A,2526,30055,True,90.0,6-0,6-0,0,estimated,2
+ITA-Serie A,2526,30056,True,97.0,1-2,1-2,0,estimated,10
+ITA-Serie A,2526,30057,True,93.0,3-2,3-2,0,estimated,0
+ITA-Serie A,2526,30058,True,93.0,6-2,6-2,0,estimated,14
+ITA-Serie A,2526,30059,True,91.0,3-0,3-0,0,estimated,2
+ITA-Serie A,2526,30060,True,96.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,30061,True,91.0,1-1,1-1,0,estimated,5
+ITA-Serie A,2526,30062,True,97.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,30063,True,92.0,1-3,1-3,0,estimated,4
+ITA-Serie A,2526,30064,True,93.0,0-3,0-3,0,estimated,3
+ITA-Serie A,2526,30065,True,93.0,4-0,4-0,0,estimated,6
+ITA-Serie A,2526,30066,True,98.0,0-0,0-0,0,estimated,9
+ITA-Serie A,2526,30067,True,93.0,0-2,0-2,0,estimated,3
+ITA-Serie A,2526,30068,True,100.0,3-2,3-2,0,estimated,8
+ITA-Serie A,2526,30069,True,95.0,2-1,2-1,0,estimated,6
+ITA-Serie A,2526,30070,True,93.0,1-4,1-4,0,estimated,11
+ITA-Serie A,2526,30071,True,96.0,1-3,1-3,0,estimated,9
+ITA-Serie A,2526,30072,True,90.0,1-0,1-0,0,estimated,12
+ITA-Serie A,2526,30073,True,97.0,1-0,1-0,0,estimated,3
+ITA-Serie A,2526,30074,True,91.0,0-0,0-0,0,estimated,5
+ITA-Serie A,2526,30075,True,91.0,0-5,0-5,0,estimated,10
+ITA-Serie A,2526,30076,True,90.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,30077,True,94.0,2-1,2-1,0,estimated,13
+ITA-Serie A,2526,30078,True,98.0,0-1,0-1,0,estimated,5
+ITA-Serie A,2526,30079,True,96.0,2-2,2-2,0,estimated,12
+ITA-Serie A,2526,30080,True,98.0,2-3,2-3,0,estimated,4
+ITA-Serie A,2526,30081,True,98.0,2-2,2-2,0,estimated,17
+ITA-Serie A,2526,30082,True,90.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30083,True,94.0,1-1,1-1,0,estimated,3
+ITA-Serie A,2526,30084,True,93.0,0-2,0-2,0,estimated,8
+ITA-Serie A,2526,30085,True,93.0,1-2,1-2,0,estimated,8
+ITA-Serie A,2526,30086,True,94.0,0-0,0-0,0,estimated,17
+ITA-Serie A,2526,30087,True,94.0,3-2,3-2,0,estimated,14
+ITA-Serie A,2526,30088,True,94.0,0-2,0-2,0,estimated,11
+ITA-Serie A,2526,30089,True,94.0,2-2,2-2,0,estimated,4
+ITA-Serie A,2526,30090,True,97.0,2-1,2-1,0,estimated,6
+ITA-Serie A,2526,30091,True,92.0,1-2,1-2,0,estimated,2
+ITA-Serie A,2526,30092,True,95.0,1-2,1-2,0,estimated,2
+ITA-Serie A,2526,30093,True,94.0,1-2,1-2,0,estimated,2
+ITA-Serie A,2526,30094,True,90.0,2-1,2-1,0,estimated,5
+ITA-Serie A,2526,30095,True,96.0,1-0,1-0,0,estimated,5
+ITA-Serie A,2526,30096,True,94.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,30097,True,96.0,1-0,1-0,0,estimated,10
+ITA-Serie A,2526,30098,True,90.0,3-0,3-0,0,estimated,5
+ITA-Serie A,2526,30099,True,90.0,0-2,0-2,0,estimated,8
+ITA-Serie A,2526,30100,True,91.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,30101,True,98.0,0-1,0-1,0,estimated,7
+ITA-Serie A,2526,30102,True,94.0,3-0,3-0,0,estimated,13
+ITA-Serie A,2526,30103,True,90.0,3-0,3-0,0,estimated,6
+ITA-Serie A,2526,30104,True,94.0,0-2,0-2,0,estimated,8
+ITA-Serie A,2526,30105,True,92.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,30106,True,97.0,1-1,1-1,0,estimated,12
+ITA-Serie A,2526,30107,True,90.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,30108,True,93.0,3-3,3-3,0,estimated,6
+ITA-Serie A,2526,30109,True,96.0,1-2,1-2,0,estimated,0
+ITA-Serie A,2526,30110,True,94.0,3-0,3-0,0,estimated,2
+ITA-Serie A,2526,30111,True,90.0,2-0,2-0,0,estimated,8
+ITA-Serie A,2526,30112,True,95.0,2-1,2-1,0,estimated,12
+ITA-Serie A,2526,30113,True,90.0,3-1,3-1,0,estimated,2
+ITA-Serie A,2526,30114,True,95.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30115,True,94.0,2-2,2-2,0,estimated,10
+ITA-Serie A,2526,30116,True,93.0,1-2,1-2,0,estimated,4
+ITA-Serie A,2526,30117,True,92.0,0-0,0-0,0,estimated,6
+ITA-Serie A,2526,30118,True,91.0,2-1,2-1,0,estimated,2
+ITA-Serie A,2526,30119,True,93.0,4-0,4-0,0,estimated,10
+ITA-Serie A,2526,30120,True,92.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30121,True,94.0,2-1,2-1,0,estimated,2
+ITA-Serie A,2526,30122,True,95.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,30123,True,95.0,1-2,1-2,0,estimated,12
+ITA-Serie A,2526,30124,True,90.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30125,True,93.0,1-4,1-4,0,estimated,9
+ITA-Serie A,2526,30126,True,97.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,30127,True,95.0,1-0,1-0,0,estimated,8
+ITA-Serie A,2526,30128,True,90.0,2-1,2-1,0,estimated,6
+ITA-Serie A,2526,30129,True,96.0,3-1,3-1,0,estimated,8
+ITA-Serie A,2526,30130,True,90.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,30131,True,94.0,4-1,4-1,0,estimated,7
+ITA-Serie A,2526,30132,True,92.0,0-1,0-1,0,estimated,9
+ITA-Serie A,2526,30133,True,90.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,30134,True,91.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,30135,True,93.0,0-2,0-2,0,estimated,6
+ITA-Serie A,2526,30136,True,94.0,0-1,0-1,0,estimated,10
+ITA-Serie A,2526,30137,True,90.0,5-0,5-0,0,estimated,4
+ITA-Serie A,2526,30138,True,95.0,1-1,1-1,0,estimated,7
+ITA-Serie A,2526,30139,True,98.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,30140,True,96.0,1-1,1-1,0,estimated,6
+ITA-Serie A,2526,30141,True,95.0,3-2,3-2,0,estimated,8
+ITA-Serie A,2526,30142,True,94.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,30143,True,90.0,1-0,1-0,0,estimated,7
+ITA-Serie A,2526,30144,True,91.0,1-2,1-2,0,estimated,4
+ITA-Serie A,2526,30145,True,90.0,5-2,5-2,0,estimated,7
+ITA-Serie A,2526,30146,True,90.0,2-0,2-0,0,estimated,6
+ITA-Serie A,2526,30147,True,97.0,1-1,1-1,0,estimated,2
+ITA-Serie A,2526,30148,True,92.0,0-3,0-3,0,estimated,9
+ITA-Serie A,2526,30149,True,90.0,1-0,1-0,0,estimated,0
+ITA-Serie A,2526,30150,True,94.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,30151,True,94.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30152,True,90.0,0-0,0-0,0,estimated,10
+ITA-Serie A,2526,30153,True,95.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,30154,True,94.0,0-1,0-1,0,estimated,4
+ITA-Serie A,2526,30155,True,94.0,2-0,2-0,0,estimated,4
+ITA-Serie A,2526,30156,True,90.0,1-0,1-0,0,estimated,9
+ITA-Serie A,2526,30157,True,95.0,3-4,3-4,0,estimated,9
+ITA-Serie A,2526,30158,True,97.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,30159,True,90.0,2-1,2-1,0,estimated,8
+ITA-Serie A,2526,30160,True,90.0,0-3,0-3,0,estimated,10
+ITA-Serie A,2526,30161,True,93.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,30162,True,92.0,3-0,3-0,0,estimated,0
+ITA-Serie A,2526,30163,True,92.0,2-1,2-1,0,estimated,8
+ITA-Serie A,2526,30164,True,94.0,3-0,3-0,0,estimated,6
+ITA-Serie A,2526,30165,True,90.0,2-0,2-0,0,estimated,8
+ITA-Serie A,2526,30166,True,90.0,1-1,1-1,0,estimated,0
+ITA-Serie A,2526,30167,True,95.0,0-2,0-2,0,estimated,6
+ITA-Serie A,2526,30168,True,93.0,1-2,1-2,0,estimated,4
+ITA-Serie A,2526,30169,True,92.0,1-1,1-1,0,estimated,4
+ITA-Serie A,2526,30170,True,91.0,2-1,2-1,0,estimated,2
+ITA-Serie A,2526,30171,True,96.0,0-1,0-1,0,estimated,12
+ITA-Serie A,2526,30172,True,92.0,0-1,0-1,0,estimated,2
+ITA-Serie A,2526,30173,True,96.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,30174,True,90.0,0-2,0-2,0,estimated,4
+ITA-Serie A,2526,30175,True,97.0,3-2,3-2,0,estimated,10
+ITA-Serie A,2526,30176,True,94.0,0-0,0-0,0,estimated,2
+ITA-Serie A,2526,30177,True,96.0,0-2,0-2,0,estimated,2
+ITA-Serie A,2526,30178,True,95.0,3-3,3-3,0,estimated,9
+ITA-Serie A,2526,30179,True,90.0,0-0,0-0,0,estimated,4
+ITA-Serie A,2526,30180,True,91.0,4-0,4-0,0,estimated,14
+ITA-Serie A,2526,30181,True,90.0,1-0,1-0,0,estimated,8
+ITA-Serie A,2526,30182,True,92.0,2-2,2-2,0,estimated,6
+ITA-Serie A,2526,30183,True,97.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,30184,True,96.0,0-0,0-0,0,estimated,11
+ITA-Serie A,2526,30185,True,94.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,30186,True,90.0,0-0,0-0,0,estimated,6
+ITA-Serie A,2526,30187,True,97.0,1-2,1-2,0,estimated,2
+ITA-Serie A,2526,30188,True,90.0,2-0,2-0,0,estimated,0
+ITA-Serie A,2526,30189,True,94.0,1-1,1-1,0,estimated,9
+ITA-Serie A,2526,30190,True,95.0,1-2,1-2,0,estimated,4
+ITA-Serie A,2526,30191,True,92.0,4-0,4-0,0,estimated,4
+ITA-Serie A,2526,30192,True,93.0,2-0,2-0,0,estimated,2
+ITA-Serie A,2526,30193,True,95.0,2-0,2-0,0,estimated,9
+ITA-Serie A,2526,30194,True,92.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,30195,True,98.0,0-2,0-2,0,estimated,12
+ITA-Serie A,2526,30196,True,90.0,3-0,3-0,0,estimated,0
+ITA-Serie A,2526,30197,True,93.0,0-0,0-0,0,estimated,0
+ITA-Serie A,2526,30198,True,90.0,0-3,0-3,0,estimated,6
+ITA-Serie A,2526,30199,True,95.0,0-1,0-1,0,estimated,6
+ITA-Serie A,2526,30200,True,97.0,2-3,2-3,0,estimated,6
+ITA-Serie A,2526,30201,True,94.0,2-3,2-3,0,estimated,2
+ITA-Serie A,2526,30202,True,101.0,2-3,2-3,0,estimated,6
+ITA-Serie A,2526,30203,True,93.0,2-1,2-1,0,estimated,8
+ITA-Serie A,2526,30204,True,94.0,0-1,0-1,0,estimated,0
+ITA-Serie A,2526,30205,True,96.0,2-1,2-1,0,estimated,7
+ITA-Serie A,2526,30206,True,90.0,1-0,1-0,0,estimated,11
+ITA-Serie A,2526,30207,True,100.0,1-2,1-2,0,estimated,0
+ITA-Serie A,2526,30208,True,94.0,1-1,1-1,0,estimated,12
+ITA-Serie A,2526,30209,True,93.0,0-2,0-2,0,estimated,14
+ITA-Serie A,2526,30210,True,92.0,0-3,0-3,0,estimated,0
+ITA-Serie A,2526,30211,True,93.0,2-0,2-0,0,estimated,6
+ITA-Serie A,2526,30212,True,96.0,2-3,2-3,0,estimated,4
+ITA-Serie A,2526,30213,True,96.0,0-1,0-1,0,estimated,5
+ITA-Serie A,2526,30214,True,90.0,3-3,3-3,0,estimated,4
+ITA-Serie A,2526,30215,True,90.0,1-4,1-4,0,estimated,6
+ITA-Serie A,2526,30216,True,93.0,1-1,1-1,0,estimated,10
+ITA-Serie A,2526,30217,True,91.0,2-1,2-1,0,estimated,4
+ITA-Serie A,2526,30218,True,90.0,1-0,1-0,0,estimated,6
+ITA-Serie A,2526,30219,True,95.0,1-2,1-2,0,estimated,11
+ITA-Serie A,2526,30220,True,93.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,30221,True,90.0,1-0,1-0,0,estimated,4
+ITA-Serie A,2526,30222,True,93.0,2-2,2-2,0,estimated,11
+ITA-Serie A,2526,30223,True,93.0,0-2,0-2,0,estimated,6

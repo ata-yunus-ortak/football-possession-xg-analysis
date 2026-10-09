@@ -1,0 +1,80 @@
+{
+  "fbref_rows": 2744,
+  "understat_rows": 3504,
+  "matched_rows": 2744,
+  "unmatched_fbref_rows": 0,
+  "missing_fbref_shots": 103,
+  "missing_understat_xg": 2,
+  "possession_leagues": [
+    "ENG-Premier League",
+    "ESP-La Liga",
+    "FRA-Ligue 1",
+    "GER-Bundesliga"
+  ],
+  "missing_possession_leagues": [
+    "ITA-Serie A"
+  ],
+  "dataset_type": "provider_snapshot",
+  "shot_events": 44111,
+  "attacking_shots": 43981,
+  "own_goals": 130,
+  "verified_score_matches": 1750,
+  "fixtures_without_shots": [
+    {
+      "league": "FRA-Ligue 1",
+      "season": 2526,
+      "game_id": 29840
+    }
+  ],
+  "excluded_score_matches": [
+    {
+      "league": "ESP-La Liga",
+      "season": 2526,
+      "game_id": 29482,
+      "replayed_score": "2-2",
+      "fixture_score": "1-1",
+      "excluded_events": 46
+    }
+  ],
+  "estimated_duration_matches": 1750,
+  "same_minute_order": "Stable source order retained; true order within an integer minute is not verified.",
+  "event_order_diagnostics": {
+    "scope": "Score-verified fixtures only; numeric shot-ID order is an unverified sensitivity, not a chronology correction.",
+    "fixtures_with_numeric_ids": 1750,
+    "minute_decreases_in_numeric_id_order": 258,
+    "fixtures_with_minute_decreases": 258,
+    "scoring_minute_decreases": 67,
+    "alternative_state_labels": 378,
+    "fixtures_with_alternative_states": 287,
+    "interpretation": "No period or precise event clock is available. Minute ties and possible halftime clock overlap leave intermediate score states and exposure uncertain. Final scores do not verify chronology."
+  },
+  "possession_range": "25-75 inclusive",
+  "range_observations": 2692,
+  "excluded_range_observations": 52,
+  "complete_shot_quality_observations": 2592,
+  "excluded_incomplete_shot_quality_observations": 100,
+  "combined_xg_per_shot": 0.1233582117886677,
+  "bootstrap_repetitions": 1000,
+  "bootstrap_seed": 2026,
+  "xg_reconciliation": {
+    "scope": "Score-verified fixtures only; attacking-shot xG sum versus fixture-summary xG.",
+    "absolute_tolerance": 0.001,
+    "team_match_rows": 3500,
+    "missing_fixture_xg_rows": 0,
+    "team_match_discrepancies": 1400,
+    "fixtures_with_discrepancies": 1135,
+    "summed_event_xg": 5417.106161871923,
+    "summed_fixture_xg": 5326.3136476,
+    "maximum_absolute_difference": 1.110606452089548,
+    "interpretation": "Aggregate definitions may differ. Discrepancies do not trigger event edits or additional exclusions; final-score verification is not xG concordance."
+  },
+  "input_sha256": {
+    "fbref_team_match.csv": "3caf115051d590eeb9abfd9b1ff773973f3ff9fa314764f8a632a1d1c1b8833f",
+    "understat_team_match.csv": "ee32ac4235793bdc0d10c86a8da0218ebbd68cce17eefedb5cec970c17e30ec6",
+    "ENG-Premier_League.csv": "0404325cf1f041b9d2db24a1917444283543ac9d80f949861f03540d6301201a",
+    "ESP-La_Liga.csv": "c1b22fb15181a2de409945b8839f910abb4421eb92645d6f1e40966a6fe5b14b",
+    "FRA-Ligue_1.csv": "ba35dac5d069904e1bfb3a31e548d1a5f80af05b9a807786e1f90c8a4f831a1d",
+    "GER-Bundesliga.csv": "9f38fb22f9d85edb7dd38c4243429f2b3bb3a2ba6879a894a80b2597c19ebbc3",
+    "ITA-Serie_A.csv": "7a3d17bfb9e592aa24300923b2bd8cbc96e82057eb4e51d19f168497a9f6c971"
+  }
+}
